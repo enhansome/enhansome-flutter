@@ -1,0 +1,4820 @@
+{
+  "items": [
+    {
+      "description": "Instant Chat Integration\nwith Stream!",
+      "items": [],
+      "title": "Demonstrations"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Articles"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Roadmap to Flutter Development",
+          "description": "[5794⭐] - Visual roadmap with principles, patterns, and frameworks for Flutter newbies by Olexandr Leuschenko.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-12-24T17:48:05Z",
+            "owner": "olexale",
+            "repo": "flutter_roadmap",
+            "stars": 5936
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beginner's Guide",
+          "description": "[431⭐] - Comprehensive guide to the basics of Flutter and Firebase by Anthony.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2023-02-14T15:47:25Z",
+            "owner": "antz22",
+            "repo": "ultimate-guide-to-flutter",
+            "stars": 479
+          }
+        }
+      ],
+      "title": "Beginner"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Components"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Flutter Examples",
+          "description": "[7112⭐] - Simple basic isolated apps for devs by Nishant Srivastava.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-05-27T14:27:56Z",
+            "owner": "nisrulz",
+            "repo": "flutter-examples",
+            "stars": 7145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Official Gallery",
+          "description": "Demo for the material design widgets provided by Flutter Team.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Dart",
+            "last_commit": "2026-06-08T15:16:31Z",
+            "owner": "flutter-team-archive",
+            "repo": "gallery",
+            "stars": 6574
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flutter Catalog",
+          "description": "[2256⭐] - showcasing Flutter components, with side-by-side source code view, by X-Wei.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-05-24T21:11:49Z",
+            "owner": "X-Wei",
+            "repo": "flutter_catalog",
+            "stars": 2285
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Generative Art",
+          "description": "[479⭐] - Generative Art by Robert Felker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2022-01-21T19:30:38Z",
+            "owner": "Solido",
+            "repo": "flutter-d-art",
+            "stars": 478
+          }
+        }
+      ],
+      "title": "Demonstrations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Flyer Chat",
+          "description": "[2070⭐] - Community-driven chat UI implementation by the Flyer Chat team.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-04-18T21:09:43Z",
+            "owner": "flyerhq",
+            "repo": "flutter_chat_ui",
+            "stars": 2321
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flutter Neumorphic",
+          "description": "[2137⭐] - Ready to use Neumorphic kit for Flutter with 🕶️ dark mode.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-05-18T09:35:40Z",
+            "owner": "Idean",
+            "repo": "Flutter-Neumorphic",
+            "stars": 2188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Smooth Page Indicator",
+          "description": "[1383⭐] - Customizable animated page indicator with a set of built-in effects. Milad Akarie.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2025-12-07T13:37:35Z",
+            "owner": "Milad-Akarie",
+            "repo": "smooth_page_indicator",
+            "stars": 1450
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Liquid Pull To Refresh",
+          "description": "[1290⭐] - A beautiful and custom refresh indicator by Ayush Agarwal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2023-07-26T12:15:44Z",
+            "owner": "aagarwal1012",
+            "repo": "Liquid-Pull-To-Refresh",
+            "stars": 1299
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Before After",
+          "description": "[1006⭐] - Beautiful slider which makes it easier to display the difference between two images, by Sahil Kumar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-11-16T16:09:42Z",
+            "owner": "xsahil03x",
+            "repo": "before_after",
+            "stars": 1032
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flushbar",
+          "description": "[1023⭐] - Highly configurable Snackbar by Andre Haueisen.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2023-05-30T06:42:03Z",
+            "owner": "AndreHaueisen",
+            "repo": "flushbar",
+            "stars": 1023
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tinder Cards",
+          "description": "[929⭐] - Tinder like cards swipe effect by Ivascu Adrian.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2020-02-05T08:31:54Z",
+            "owner": "Ivaskuu",
+            "repo": "tinder_cards",
+            "stars": 976
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Direct Select",
+          "description": "[806⭐] - Selection widget with an ethereal, full-screen modal popup by Ivan Yatsouba.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-01-10T16:18:11Z",
+            "owner": "LanarsInc",
+            "repo": "direct-select-flutter",
+            "stars": 834
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Timelines",
+          "description": "[768⭐] - Powerful & Easy to use timeline package by Chulwoo Park.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2023-02-06T17:24:53Z",
+            "owner": "chulwoo-park",
+            "repo": "timelines",
+            "stars": 803
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Timeline Tile",
+          "description": "[783⭐] - Tile to help build beautiful and customisable timelines by Julio Bitencourt.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-08-02T08:33:22Z",
+            "owner": "JHBitencourt",
+            "repo": "timeline_tile",
+            "stars": 792
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beautiful_Popup",
+          "description": "[727⭐] - Beautify your app popup by jaweii.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-10-13T09:25:37Z",
+            "owner": "jaweii",
+            "repo": "Flutter_beautiful_popup",
+            "stars": 758
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dough",
+          "description": "[735⭐] - Widgets for a squishy user interface by Josiah Saunders.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-01-22T00:35:30Z",
+            "owner": "josiahsrc",
+            "repo": "dough",
+            "stars": 748
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scratcher",
+          "description": "[643⭐] - Scratch card widget which temporarily hides content from user, by Kamil Rykowski.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2023-11-24T13:38:55Z",
+            "owner": "vintage",
+            "repo": "scratcher",
+            "stars": 673
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flip Panel",
+          "description": "[614⭐] - Flip panel with built-in animation by HungHD.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2022-04-02T07:24:43Z",
+            "owner": "hnvn",
+            "repo": "flutter_flip_panel",
+            "stars": 616
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Folding Cell",
+          "description": "[563⭐] - Fold your widget by Faob.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2021-03-13T22:11:27Z",
+            "owner": "faob-dev",
+            "repo": "folding_cell",
+            "stars": 563
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Card Settings",
+          "description": "[559⭐] - package for building settings forms by codegrue.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-06-27T08:45:00Z",
+            "owner": "codegrue",
+            "repo": "card_settings",
+            "stars": 559
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Radial Menu",
+          "description": "[505⭐] - Animated Radial Menu by Victor Choueiri.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2021-05-11T15:54:44Z",
+            "owner": "xqwzts",
+            "repo": "flutter_radial_menu",
+            "stars": 513
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flutter Tags",
+          "description": "[507⭐] - Tags with different customizations by Di Natale Antonino.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2022-07-26T10:33:56Z",
+            "owner": "Dn-a",
+            "repo": "flutter_tags",
+            "stars": 508
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Credit Card Form",
+          "description": "[494⭐] - Animated credit card input form Origogi.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2021-04-03T13:20:49Z",
+            "owner": "Origogi",
+            "repo": "Flutter-Credit-Card-Input-Form",
+            "stars": 491
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Facebook Reactions",
+          "description": "[443⭐] - Facebook reactions widget by Duy Tran.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-02-18T15:16:20Z",
+            "owner": "duytq94",
+            "repo": "flutter-fb-reactions-animation",
+            "stars": 444
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Animated Selection Slide",
+          "description": "An animated selection widget by swiping by Sezgin Bilgetay.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2021-01-31T13:04:23Z",
+            "owner": "szbk",
+            "repo": "animated_selection_slide",
+            "stars": 381
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rounded Loading Button",
+          "description": "[358⭐] - Button with a loading indicator, complete with success and error animations by Chris Edgington.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-06-17T20:36:49Z",
+            "owner": "chrisedg87",
+            "repo": "flutter_rounded_loading_button",
+            "stars": 363
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stepper Touch",
+          "description": "[355⭐] - Lateral value stepper nicely animated by Raouf Rahiche.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-09-23T20:31:23Z",
+            "owner": "Rahiche",
+            "repo": "stepper_touch",
+            "stars": 359
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Image Sequence Animator",
+          "description": "[153⭐] - A simple widget for animating a set of images with full custom controls as an alternative to using a GIF file by Ali Yigit Bireroglu.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2022-04-11T00:16:32Z",
+            "owner": "aliyigitbireroglu",
+            "repo": "flutter-image-sequence-animator",
+            "stars": 155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Super Editor",
+          "description": "[?⭐] - Advanced toolkit for building document editors and readers by Flutter Bounty Hunters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-28T10:36:57Z",
+            "owner": "superlistapp",
+            "repo": "super_editor",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "UI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Shadcn",
+          "description": "[2276⭐] - Shadcn-ui port. Fully customizable UI components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-04T15:57:55Z",
+            "owner": "nank1ro",
+            "repo": "flutter-shadcn-ui",
+            "stars": 2776
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Forui",
+          "description": "[1379⭐] - Minimalistic UI library heavily inspired by shadcn/ui by Forus Labs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-12T23:02:04Z",
+            "owner": "duobaseio",
+            "repo": "forui",
+            "stars": 2284
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TDesign Flutter",
+          "description": "[951⭐] - A useful UI component library matches the TDesign style by Tencent.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-13T03:24:33Z",
+            "owner": "Tencent",
+            "repo": "tdesign-flutter",
+            "stars": 1181
+          }
+        }
+      ],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "StaggeredGridView",
+          "description": "[3206⭐] - GridView with tiles of variable sizes by Romain Rastel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-06-05T17:44:36Z",
+            "owner": "letsar",
+            "repo": "flutter_staggered_grid_view",
+            "stars": 3219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Liquid Pull To Refresh",
+          "description": "[1290⭐] - A beautiful and custom refresh indicator by Ayush Agarwal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2023-07-26T12:15:44Z",
+            "owner": "aagarwal1012",
+            "repo": "Liquid-Pull-To-Refresh",
+            "stars": 1299
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sticky Headers",
+          "description": "[1131⭐] - Configurable sticky headers by Simon Lightfoot.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-03-15T01:58:50Z",
+            "owner": "fluttercommunity",
+            "repo": "flutter_sticky_headers",
+            "stars": 1167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Typeahead",
+          "description": "[847⭐] - Display overlay suggestions to users as they type by Abdul Rahman Al Hamali.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-04-04T11:43:05Z",
+            "owner": "AbdulRahmanAlHamali",
+            "repo": "flutter_typeahead",
+            "stars": 853
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reorderables",
+          "description": "[759⭐] - Drag&Drop Table, Row, Column, Wrap(Grid) and SliverList elements by Hansheng Chiu.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2023-06-23T03:47:17Z",
+            "owner": "hanshengchiu",
+            "repo": "reorderables",
+            "stars": 767
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PlutoGrid",
+          "description": "[725⭐] - Web and desktop datagrid that can be controlled by the keyboard by bosskmk.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2025-12-14T01:06:45Z",
+            "owner": "bosskmk",
+            "repo": "pluto_grid",
+            "stars": 746
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Snaplist",
+          "description": "[456⭐] - Create snappable list views by David Leibovych.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2021-03-20T12:32:47Z",
+            "owner": "ariedov",
+            "repo": "flutter_snaplist",
+            "stars": 465
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Super List",
+          "description": "[384⭐] - Drop-in replacement for SliverList and ListView that can handle large amount of items with variable extents by Matej Knopp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-07-24T18:53:25Z",
+            "owner": "superlistapp",
+            "repo": "super_sliver_list",
+            "stars": 423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Infinite Listview",
+          "description": "[303⭐] - Infinite scroll in both directions by Simon Lightfoot.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2021-08-07T14:23:13Z",
+            "owner": "fluttercommunity",
+            "repo": "flutter_infinite_listview",
+            "stars": 305
+          }
+        }
+      ],
+      "title": "List"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Flutter Inner Drawer",
+          "description": "[517⭐] - Easy way to create an internal drawer (left / right) where you can enter a list-menu or other by Di Natale Antonino.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-07-10T13:36:02Z",
+            "owner": "Dn-a",
+            "repo": "flutter_inner_drawer",
+            "stars": 516
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hidden Drawer Menu",
+          "description": "[354⭐] - Beautiful drawer mode menu feature with perspective animations by Rafael Almeida Barbosa.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-03-19T15:19:18Z",
+            "owner": "RafaelBarbosatec",
+            "repo": "hidden_drawer_menu",
+            "stars": 355
+          }
+        }
+      ],
+      "title": "Drawers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bottom Navy Bar",
+          "description": "[1069⭐] - Beautiful and colorful animated bottom navigation bar by Pedro Massango.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-12-14T13:47:16Z",
+            "owner": "pedromassango",
+            "repo": "bottom_navy_bar",
+            "stars": 1092
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fancy Bottom Navigation",
+          "description": "[808⭐] - Animated bottom navigation by Tony Owen.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2023-12-01T16:20:13Z",
+            "owner": "tunitowen",
+            "repo": "fancy_bottom_navigation",
+            "stars": 840
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Google Nav Bar",
+          "description": "[772⭐] - A modern google style nav bar for flutter by Sooxt98.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-11-30T13:06:53Z",
+            "owner": "sooxt98",
+            "repo": "google_nav_bar",
+            "stars": 792
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Circular Bottom Navigation",
+          "description": "[680⭐] - Beautiful animated bottom navigation bar by Iman Khoshabi.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-03-18T14:04:00Z",
+            "owner": "benyaminbeyzaie",
+            "repo": "circular_bottom_navigation",
+            "stars": 692
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Titled Navigation Bar",
+          "description": "[370⭐] - Animated bottom navigation bar that switch between icon and title by Pedro Massango.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2021-11-30T15:57:39Z",
+            "owner": "pedromassango",
+            "repo": "titled_navigation_bar",
+            "stars": 376
+          }
+        }
+      ],
+      "title": "Bottom bars"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Modal Bottom Sheet",
+          "description": "[1959⭐] - Modal bottom sheet with Material, Cupertino iOS13 or custom appareance by Jaime Blasco.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-07-21T12:37:51Z",
+            "owner": "jamesblasco",
+            "repo": "modal_bottom_sheet",
+            "stars": 1971
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rubber Bottom Sheet",
+          "description": "[566⭐] - Elastic material bottom sheet by Mattia Crovero.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2023-08-23T15:56:06Z",
+            "owner": "mcrovero",
+            "repo": "rubber",
+            "stars": 564
+          }
+        }
+      ],
+      "title": "Bottom Sheets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Flutter Xlider",
+          "description": "[524⭐] - A material design slider and range slider, horizontal and vertical, with RTL support by Ali-Azmoud.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-04-19T20:57:42Z",
+            "owner": "Ali-Azmoud",
+            "repo": "flutter_xlider",
+            "stars": 524
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RangeSlider",
+          "description": "[376⭐] - 2-thumb configurable RangeSlider by Didier Boelens.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-06-03T14:01:04Z",
+            "owner": "boeledi",
+            "repo": "RangeSlider",
+            "stars": 375
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fluid Slider",
+          "description": "[324⭐] - A slider with a minimal design and fluid like animation by Vamsi Krishna.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2022-01-03T08:07:11Z",
+            "owner": "rvamsikrishna",
+            "repo": "flutter_fluid_slider",
+            "stars": 324
+          }
+        }
+      ],
+      "title": "Sliders"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ShowCaseView",
+          "description": "[1805⭐] - Way to showcase your app features on iOS and Android by Simform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-07-30T11:37:41Z",
+            "owner": "SimformSolutionsPvtLtd",
+            "repo": "showcaseview",
+            "stars": 1926
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Offline",
+          "description": "[1245⭐] - Tidy utility to handle offline/online connectivity by Jeremiah Ogbomo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-01-06T14:46:53Z",
+            "owner": "jogboms",
+            "repo": "flutter_offline",
+            "stars": 1331
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mix",
+          "description": "[724⭐] - An expressive way to effortlessly build design systems by Leo Farias.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-11T20:56:37Z",
+            "owner": "conceptadev",
+            "repo": "mix",
+            "stars": 798
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "In View Notifier List",
+          "description": "[?⭐] - ListView that notify when widgets are on screen within a provided area by Vamsi Krishna.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-07-04T09:05:19Z",
+            "owner": "rvamsikrishna",
+            "repo": "inview_notifier_list",
+            "stars": 684
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blurhash",
+          "description": "[556⭐] - Compact representation of a placeholder for an image. Encode a blurry image under 30 characters by Robert Felker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2025-04-22T21:15:24Z",
+            "owner": "fluttercommunity",
+            "repo": "flutter_blurhash",
+            "stars": 574
+          }
+        }
+      ],
+      "title": "UI Helpers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Slidable",
+          "description": "[2828⭐] - Slidable list item with left and right slide actions by Romain Rastel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2025-09-27T14:58:30Z",
+            "owner": "letsar",
+            "repo": "flutter_slidable",
+            "stars": 2852
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Backdrop",
+          "description": "[341⭐] - Backdrop implementation for flutter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2023-09-23T23:11:18Z",
+            "owner": "fluttercommunity",
+            "repo": "backdrop",
+            "stars": 347
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unicorn Speed Dial",
+          "description": "[345⭐] - Floating Action Button with Speed Dial by Tiago Martins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2022-02-07T19:32:24Z",
+            "owner": "tiagojencmartins",
+            "repo": "unicornspeeddial",
+            "stars": 345
+          }
+        }
+      ],
+      "title": "Material Design"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Shimmer",
+          "description": "[1832⭐] - Shimmer effect while content is loading by HungHD.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-12-28T06:22:01Z",
+            "owner": "hnvn",
+            "repo": "flutter_shimmer",
+            "stars": 1860
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Liquid Swipe",
+          "description": "Liquid swipe to your stacked containers by Sahdeep Singh.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-02-08T12:56:20Z",
+            "owner": "iamSahdeep",
+            "repo": "liquid_swipe_flutter",
+            "stars": 1266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wave",
+          "description": "[1122⭐] - Displaying some waves with custom color, duration, floating and blur effects by RockerFlower.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-07-13T19:14:01Z",
+            "owner": "glorylab",
+            "repo": "wave",
+            "stars": 1126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Parallax",
+          "description": "[876⭐] - ViewPager by Iiro Krankka.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2020-02-10T15:49:18Z",
+            "owner": "roughike",
+            "repo": "page-transformer",
+            "stars": 876
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clay Containers",
+          "description": "[456⭐] - Neumorphic widget primitives to serve as the foundation of your own designs by Michael Charles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-02-02T15:15:35Z",
+            "owner": "MichaelCharles",
+            "repo": "clay_containers",
+            "stars": 458
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PhotoFilters",
+          "description": "[427⭐] - Apply filters to an image by Sharafudheen KK.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-01-21T07:54:44Z",
+            "owner": "skkallayath",
+            "repo": "photofilters",
+            "stars": 431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shine",
+          "description": "[149⭐] - Pretty shadows with dynamic light positions by Jonathan Monga.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2023-09-25T14:34:35Z",
+            "owner": "JonathanMonga",
+            "repo": "flutter_shine.dart",
+            "stars": 149
+          }
+        }
+      ],
+      "title": "Effect"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Table Calendar",
+          "description": "[1937⭐] - Calendar organized neatly into a Table, with vertical autosizing by Aleksander Woźniak.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-09T17:10:45Z",
+            "owner": "aleksanderwozniak",
+            "repo": "table_calendar",
+            "stars": 1960
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Calendar Carousel Widget",
+          "description": "Calendar carousel by dooboolab",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-09T23:55:16Z",
+            "owner": "hyochan",
+            "repo": "flutter_calendar_carousel",
+            "stars": 860
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Time Planner",
+          "description": "[238⭐] - A beautiful, easy to use and customizable time planner for flutter mobile, desktop and web by Mohammad Jamalianpour.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2023-09-28T15:00:14Z",
+            "owner": "Jamalianpour",
+            "repo": "time_planner",
+            "stars": 248
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Calendar Widget",
+          "description": "[243⭐] - Calendar widget by David Bennett.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2021-10-18T18:13:24Z",
+            "owner": "pinkfish",
+            "repo": "flutter_calendar",
+            "stars": 243
+          }
+        }
+      ],
+      "title": "Calendar"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cached Network Image",
+          "description": "[2547⭐] - Show images from the internet and keep them in the cache directory by.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-09-26T01:24:06Z",
+            "owner": "Baseflow",
+            "repo": "flutter_cached_network_image",
+            "stars": 2584
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Photo View",
+          "description": "[1982⭐] - Scalable image view with loading placeholder by Renan C. Araújo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-09-04T06:46:42Z",
+            "owner": "bluefireteam",
+            "repo": "photo_view",
+            "stars": 1997
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Carousel Slider",
+          "description": "[1671⭐] - Carousel slider widget, support infinite scroll and custom child widget by serenader.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-02-06T02:10:44Z",
+            "owner": "serenader2014",
+            "repo": "flutter_carousel_slider",
+            "stars": 1694
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SVG",
+          "description": "[1689⭐] - SVG parsing, rendering, and widget library by Dan Field.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-11-01T20:45:43Z",
+            "owner": "dnfield",
+            "repo": "flutter_svg",
+            "stars": 1692
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lottie",
+          "description": "[1257⭐] - Use airbnb's popular After Effects Animation library by xvrh.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-10T13:26:41Z",
+            "owner": "xvrh",
+            "repo": "lottie-flutter",
+            "stars": 1295
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Image Cropper",
+          "description": "[1046⭐] - Crop your images support ratio, rotation, zoom by HungHD.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-07-30T09:46:51Z",
+            "owner": "hnvn",
+            "repo": "flutter_image_cropper",
+            "stars": 1055
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Parallax Image",
+          "description": "[278⭐] - Image parallax by Anatoly Pulyaevskiy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2022-08-17T14:28:58Z",
+            "owner": "pulyaevskiy",
+            "repo": "parallax-image",
+            "stars": 280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crop",
+          "description": "[259⭐] - Crop any widget/image in Android, iOS, Web and Desktop by Mahdi K. Fard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2023-09-21T06:10:12Z",
+            "owner": "olutter",
+            "repo": "crop",
+            "stars": 259
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bitmap",
+          "description": "[176⭐] - Perform Bitmap manipulations (such as contrast and exposure) with a help from the Dart FFI by Renan C. Araújo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-01-05T21:45:23Z",
+            "owner": "bluefireteam",
+            "repo": "bitmap",
+            "stars": 178
+          }
+        }
+      ],
+      "title": "Image"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Image Picker",
+          "description": "Images Selection by Collin Jackson.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-13T00:38:23Z",
+            "owner": "flutter",
+            "repo": "packages",
+            "stars": 5277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WeChat Assets Picker",
+          "description": "[1616⭐] - Assets picker in WeChat style, support multi assets by Alex Li.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-12T11:42:39Z",
+            "owner": "fluttercandies",
+            "repo": "flutter_wechat_assets_picker",
+            "stars": 1651
+          }
+        }
+      ],
+      "title": "Image Picker"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AMap",
+          "description": "[540⭐] - Access to AMap services(高德地图) by fluttify-project.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2023-06-19T02:58:16Z",
+            "owner": "fluttify-project",
+            "repo": "amap_map_fluttify",
+            "stars": 537
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Google Map View",
+          "description": "[415⭐] - Displaying google map plugin by AppTree Software.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Dart",
+            "last_commit": "2019-12-19T16:14:04Z",
+            "owner": "apptreesoftware",
+            "repo": "flutter_google_map_view",
+            "stars": 414
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mapbox GL",
+          "description": "[270⭐] - Interactive, customizable vector maps by Mapbox.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2019-03-06T20:35:27Z",
+            "owner": "mapbox",
+            "repo": "flutter-mapbox-gl",
+            "stars": 269
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeoCoder",
+          "description": "[191⭐] - Forward and reverse geocoding by Aloïs Deniel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-03-07T02:45:30Z",
+            "owner": "aloisdeniel",
+            "repo": "flutter_geocoder",
+            "stars": 192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Map",
+          "description": "[139⭐] - Fully-fledged interactive Map widget for flutter written in pure Dart. Supports all platforms. by Mahdi K. Fard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-02-12T22:22:25Z",
+            "owner": "olutter",
+            "repo": "map",
+            "stars": 140
+          }
+        }
+      ],
+      "title": "Map"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FL Chart",
+          "description": "[7313⭐] - Draw fantastic charts in Flutter by Iman Khoshabi.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-07-24T23:02:03Z",
+            "owner": "imaNNeo",
+            "repo": "fl_chart",
+            "stars": 7567
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Graphic",
+          "description": "[1737⭐] - Data visualization library based on the Grammar of Graphics by LIN Chen.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-02-25T02:48:51Z",
+            "owner": "entronad",
+            "repo": "graphic",
+            "stars": 1785
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Echarts",
+          "description": "[765⭐] - Large collection of advanced reactives charts by LIN Chen.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Dart",
+            "last_commit": "2025-08-11T07:13:59Z",
+            "owner": "entronad",
+            "repo": "flutter_echarts",
+            "stars": 766
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bezier Chart",
+          "description": "[451⭐] - Beautiful bezier line chart widget for flutter that is highly interactive and configurable by Diego Velasquez.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2023-01-17T12:29:38Z",
+            "owner": "aeyrium",
+            "repo": "bezier-chart",
+            "stars": 452
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Candlesticks",
+          "description": "[429⭐] - OHLC and Trade Volume Charts by Trent Piercy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2022-02-12T06:19:44Z",
+            "owner": "trentpiercy",
+            "repo": "flutter-candlesticks",
+            "stars": 430
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Circular Chart",
+          "description": "[406⭐] - Animated radial and pie charts by Victor Choueiri.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-06-13T12:04:29Z",
+            "owner": "xqwzts",
+            "repo": "flutter_circular_chart",
+            "stars": 405
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FCharts",
+          "description": "[326⭐] - Beautiful, responsive, animated charts by Keenan Thompson.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2020-06-22T13:47:44Z",
+            "owner": "thekeenant",
+            "repo": "fcharts",
+            "stars": 326
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sparkline",
+          "description": "[258⭐] - Sparkline by Victor Choueiri.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2021-10-12T15:18:26Z",
+            "owner": "xqwzts",
+            "repo": "flutter_sparkline",
+            "stars": 258
+          }
+        }
+      ],
+      "title": "Charts"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Get",
+          "description": "[11002⭐] - Navigate between screens & display snackbars/dialogs/bottomSheets without context by Jonny Borges.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-06-12T14:17:03Z",
+            "owner": "jonataslaw",
+            "repo": "getx",
+            "stars": 11197
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fluro",
+          "description": "[3710⭐] - The brightest, hippest, coolest router for Flutter with Navigation, wildcard, query, transitions by Posse.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2023-03-22T17:54:12Z",
+            "owner": "lukepighetti",
+            "repo": "fluro",
+            "stars": 3713
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "auto_route",
+          "description": "[1708⭐] - AutoRoute is a declarative routing solution, where everything needed for navigation is automatically generated for you. Milad_Akarie.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-06-13T12:05:36Z",
+            "owner": "Milad-Akarie",
+            "repo": "auto_route_library",
+            "stars": 1752
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beamer",
+          "description": "[602⭐] - Route through guarded page stacks and URLs using the Navigator 2.0 API effortlessly by Sandro Lovnički.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-10-16T20:40:17Z",
+            "owner": "slovnicki",
+            "repo": "beamer",
+            "stars": 598
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "go_router",
+          "description": "[440⭐] - Declarative routes to reduce complexity, deep linking for mobile and the web while maintaining developer experience by Chris Sells.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Dart",
+            "last_commit": "2022-02-25T00:38:31Z",
+            "owner": "csells",
+            "repo": "go_router",
+            "stars": 441
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PageView Indicator",
+          "description": "[165⭐] - Build page indicators for the PageView by Leo Cavalcante.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2021-11-03T04:07:24Z",
+            "owner": "leocavalcante",
+            "repo": "page_view_indicator",
+            "stars": 166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep Link Navigation",
+          "description": "[67⭐] - Elegant abstraction for complete deep linking navigation in Flutter by Dennis Krasnov.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2020-02-11T22:37:10Z",
+            "owner": "Dennis-Krasnov",
+            "repo": "Flutter-Deep-Link-Navigation",
+            "stars": 68
+          }
+        }
+      ],
+      "title": "Navigation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Firebase Auth",
+          "description": "Firebase OAuth.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-12T13:59:29Z",
+            "owner": "firebase",
+            "repo": "flutterfire",
+            "stars": 9244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Local Auth",
+          "description": "Touch ID, lock code, fingerprint auth on iOS and Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-13T00:38:23Z",
+            "owner": "flutter",
+            "repo": "packages",
+            "stars": 5277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Google Sign-In",
+          "description": "Google OAuth.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-13T00:38:23Z",
+            "owner": "flutter",
+            "repo": "packages",
+            "stars": 5277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Login",
+          "description": "[710⭐] - FaceID, TouchID, and Fingerprint Reader by Rody Davis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2021-03-31T21:51:02Z",
+            "owner": "rodydavis",
+            "repo": "flutter_login",
+            "stars": 709
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Facebook Login",
+          "description": "[405⭐] - Authenticate with native Android & iOS Facebook login SDKs by Iiro Krankka.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Dart",
+            "last_commit": "2021-03-30T07:58:33Z",
+            "owner": "roughike",
+            "repo": "flutter_facebook_login",
+            "stars": 402
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SimpleAuth",
+          "description": "[352⭐] - Azure Active Directory, Amazon, Dropbox, Facebook, Github, Google, Instagram, Linked In, Microsoft Live Connect, Github, OAuth, Basic Auth by James Clancey.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2025-08-08T20:17:53Z",
+            "owner": "Clancey",
+            "repo": "simple_auth",
+            "stars": 354
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flutter AppAuth",
+          "description": "[293⭐] - Plugin that provides a wrapper around the AppAuth iOS and Android SDKs by Michael Bui.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2026-06-26T10:07:41Z",
+            "owner": "MaikuB",
+            "repo": "flutter_appauth",
+            "stars": 308
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Passkeys",
+          "description": "[158⭐] Authenticate your users with passkeys (e.g. Face ID, Touch ID, screen lock) based on FIDO2 / WebAuthn by Corbado.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-06T11:49:32Z",
+            "owner": "corbado",
+            "repo": "flutter-passkeys",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OAuth",
+          "description": "[177⭐] - Buffer, Strava, Unsplash, Github OAuth by Joe Birch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2018-08-17T07:15:33Z",
+            "owner": "hitherejoe",
+            "repo": "FlutterOAuth",
+            "stars": 177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apple Sign-In",
+          "description": "[160⭐] - Apple sign in by Tom Gilder.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2021-04-25T20:21:57Z",
+            "owner": "tomgilder",
+            "repo": "flutter_apple_sign_in",
+            "stars": 160
+          }
+        }
+      ],
+      "title": "Auth"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AutoSizeText",
+          "description": "[2111⭐] - Automatically resizes text to fit perfectly within its bounds by Simon Leier.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2023-12-07T14:28:29Z",
+            "owner": "simc",
+            "repo": "auto_size_text",
+            "stars": 2131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fleather",
+          "description": "Soft & gentle rich text editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-06-09T18:48:53Z",
+            "owner": "fleather-editor",
+            "repo": "fleather",
+            "stars": 310
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TeX",
+          "description": "[295⭐] - Render Mathematics Equations with full HTML and JavaScript support by Shahzad Akram.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-05T03:55:47Z",
+            "owner": "Shahxad-Akram",
+            "repo": "flutter_tex",
+            "stars": 305
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Masked Text",
+          "description": "[275⭐] - Masked text with custom and monetary formatting by Ben-hur Santos Ott.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2022-11-06T12:39:48Z",
+            "owner": "bhrott",
+            "repo": "flutter-masked-text",
+            "stars": 270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Code Field",
+          "description": "Customizable code field widget supporting syntax highlighting by Bertrand Bevillard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-07-08T19:51:11Z",
+            "owner": "BertrandBev",
+            "repo": "code_field",
+            "stars": 248
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Parsed Text",
+          "description": "[222⭐] - Interactive text based on content recognition, also supports Regex by Fayeed Pawaskar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-01-09T09:12:42Z",
+            "owner": "fayeed",
+            "repo": "flutter_parsed_text",
+            "stars": 221
+          }
+        }
+      ],
+      "title": "Text & Rich Content"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Form Builder",
+          "description": "[1581⭐] - Framework that simplifies building forms, validating fields, reacting to changes, and collecting the final user input by Danvick Miller.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-07-29T06:42:48Z",
+            "owner": "flutter-form-builder-ecosystem",
+            "repo": "flutter_form_builder",
+            "stars": 1605
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reactive Forms",
+          "description": "[490⭐] - Model-driven approach to handling Forms inputs and validations, heavily inspired in Angular's Reactive Forms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2025-12-22T19:40:59Z",
+            "owner": "joanpablo",
+            "repo": "reactive_forms",
+            "stars": 503
+          }
+        }
+      ],
+      "title": "Forms"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Firebase Analytics",
+          "description": "Connect to Firebase Analytics API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-12T13:59:29Z",
+            "owner": "firebase",
+            "repo": "flutterfire",
+            "stars": 9244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Usage",
+          "description": "[147⭐] - Google Analytics wrapper for command-line, web, and Flutter apps.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Dart",
+            "last_commit": "2024-06-20T20:17:55Z",
+            "owner": "dart-archive",
+            "repo": "usage",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pure Mixpanel",
+          "description": "[25⭐] - Analytics for the popular Mixpanel.com Nick Manning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2020-11-25T15:33:00Z",
+            "owner": "seenickcode",
+            "repo": "pure_mixpanel",
+            "stars": 25
+          }
+        }
+      ],
+      "title": "Analytics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Flutter Translate",
+          "description": "[412⭐] - Internationalization (i18n) library by Florin Bratan.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Dart",
+            "last_commit": "2024-05-28T20:21:43Z",
+            "owner": "Jesway",
+            "repo": "flutter_translate",
+            "stars": 410
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "attranslate",
+          "description": "Semi-automated translation of ARB or JSON files by fkirc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-24T23:23:44Z",
+            "owner": "fkirc",
+            "repo": "attranslate",
+            "stars": 358
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GenLang",
+          "description": "[100⭐] - Code generator for Internationalization by King Wu.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2022-10-13T09:25:08Z",
+            "owner": "AkoWu101",
+            "repo": "gen_lang",
+            "stars": 99
+          }
+        }
+      ],
+      "title": "Internationalization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Flutterial",
+          "description": "[1753⭐] - Flutter Material Theme explorer by Erick Ghaumez.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Dart",
+            "last_commit": "2021-04-27T22:58:29Z",
+            "owner": "rxlabz",
+            "repo": "panache",
+            "stars": 1747
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pigment",
+          "description": "[216⭐] - Simple but useful package for use colors in flutter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2025-07-30T01:15:28Z",
+            "owner": "bregydoc",
+            "repo": "pigment",
+            "stars": 218
+          }
+        }
+      ],
+      "title": "Styling"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Audio Players Plugin",
+          "description": "[2108⭐] - Play multiple audio files simultaneously (Android/iOS) by Luan Nico.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-07-23T19:18:52Z",
+            "owner": "bluefireteam",
+            "repo": "audioplayers",
+            "stars": 2141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flutter Sound",
+          "description": "[925⭐] - Flutter audio recorder and player at one hand by dooboolab.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2025-11-27T17:02:24Z",
+            "owner": "Canardoux",
+            "repo": "flutter_sound",
+            "stars": 942
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AssetsAudioPlayer",
+          "description": "[770⭐] Simultaneous playback of audio from assets/network/file and displaying notifications [android / ios / web / macos]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Dart",
+            "last_commit": "2024-12-23T20:24:22Z",
+            "owner": "florent37",
+            "repo": "Flutter-AssetsAudioPlayer",
+            "stars": 771
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flutter Audio Recorder",
+          "description": "Provides full controls and access to recording details such as level metering by Wenyan Li.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Dart",
+            "last_commit": "2024-03-20T01:42:12Z",
+            "owner": "rmbrone",
+            "repo": "flutter_audio_recorder",
+            "stars": 124
+          }
+        }
+      ],
+      "title": "Audio"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "WebRTC",
+          "description": "[4386⭐] - WebRTC plugin for iOS/Android by CloudWebRtc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-06T05:27:03Z",
+            "owner": "flutter-webrtc",
+            "repo": "flutter-webrtc",
+            "stars": 4486
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chewie",
+          "description": "[2034⭐] - Provides low-level access to video playback by Brian Egan.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-12T20:48:47Z",
+            "owner": "fluttercommunity",
+            "repo": "chewie",
+            "stars": 2061
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CamerAwesome",
+          "description": "[1117⭐] - Community camera plugin rework by Apparence.io studio.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-04-08T20:22:58Z",
+            "owner": "Apparence-io",
+            "repo": "CamerAwesome",
+            "stars": 1205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Video Editor",
+          "description": "[472⭐] - Edit (crop, trim, rotate) a video and its cover by Maël Le Goff.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2025-04-12T13:24:46Z",
+            "owner": "LeGoffMael",
+            "repo": "video_editor",
+            "stars": 495
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Video Trimmer",
+          "description": "[477⭐] - Visualise and trim videos by Souvik Biswas.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2025-04-27T09:05:09Z",
+            "owner": "sbis04",
+            "repo": "video_trimmer",
+            "stars": 490
+          }
+        }
+      ],
+      "title": "Video"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Firebase Storage",
+          "description": "Firebase as data storage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-12T13:59:29Z",
+            "owner": "firebase",
+            "repo": "flutterfire",
+            "stars": 9244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Secure Storage",
+          "description": "[1234⭐] - Keychain and Keystore storage by German Saprykin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T09:23:28Z",
+            "owner": "juliansteenbakker",
+            "repo": "flutter_secure_storage",
+            "stars": 1280
+          }
+        }
+      ],
+      "title": "Storage"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Firebase AdMob",
+          "description": "Ad integration using Firebase.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-12T13:59:29Z",
+            "owner": "firebase",
+            "repo": "flutterfire",
+            "stars": 9244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Inapp Purchase",
+          "description": "[573⭐] - Features set of 'in app purchase' derived from react-native-iap by dooboolab.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Dart",
+            "last_commit": "2026-08-04T14:52:38Z",
+            "owner": "hyochan",
+            "repo": "flutter_inapp_purchase",
+            "stars": 595
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Admob Flutter",
+          "description": "Admob plugin that shows banner ads using native platform views by Youssef Kababe & Kevin McGill.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-08-12T05:04:32Z",
+            "owner": "kmcgill88",
+            "repo": "admob_flutter",
+            "stars": 434
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Square In-App Payments SDK",
+          "description": "[342⭐] - Take payments by embedding a card entry form in your app that produces nonces from customer-provided card information or digital wallets by Square.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2026-07-23T17:28:41Z",
+            "owner": "square",
+            "repo": "in-app-payments-flutter-plugin",
+            "stars": 341
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Facebook Audience Network",
+          "description": "Facebook Audience Network Ad plugin that shows banner, interstitial, in-stream video, rewarded video & native ads by Dreamsoft Innovations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2024-08-09T09:35:41Z",
+            "owner": "dreamsoftin",
+            "repo": "facebook_audience_network",
+            "stars": 153
+          }
+        }
+      ],
+      "title": "Monetization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TodoMVC",
+          "description": "[8859⭐] - TODO application ready to go with different flavors : Vanilla, Redux, built_redux by Brian Egan.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2025-11-06T22:37:20Z",
+            "owner": "brianegan",
+            "repo": "flutter_architecture_samples",
+            "stars": 8928
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI Kit",
+          "description": "[6277⭐] - Collection of useful UIs in a UIKit by Pawan Kumar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2022-06-13T15:18:00Z",
+            "owner": "iampawan",
+            "repo": "Flutter-UI-Kit",
+            "stars": 6292
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flutter Samples",
+          "description": "[3191⭐] - Collection of nice flutter samples by Diego Velásquez.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2025-11-02T14:49:32Z",
+            "owner": "diegoveloper",
+            "repo": "flutter-samples",
+            "stars": 3211
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Gorgeous Login",
+          "description": "[1770⭐] - Design and smooth login template by Hugo Extrat.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2023-12-15T14:47:55Z",
+            "owner": "huextrat",
+            "repo": "TheGorgeousLogin",
+            "stars": 1765
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlutterFoodybite",
+          "description": "[1686⭐] - Beautiful food app UI template by JideGuru.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-08-05T19:36:10Z",
+            "owner": "JideGuru",
+            "repo": "FlutterFoodybite",
+            "stars": 1714
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI Challenges",
+          "description": "[1514⭐] - Profile, Travel, Food App by Tomi Alagbe.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2019-11-14T14:30:01Z",
+            "owner": "tomialagbe",
+            "repo": "flutter_ui_challenges",
+            "stars": 1512
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clone UI Challenges",
+          "description": "[1514⭐] - Collection of useful UIs clones by Javier González.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2020-05-05T12:35:09Z",
+            "owner": "javico2609",
+            "repo": "flutter-challenges",
+            "stars": 1507
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dashboard",
+          "description": "[936⭐] - Dashboard and Shop Items by Ivascu Adrian.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2019-08-09T00:20:13Z",
+            "owner": "Ivaskuu",
+            "repo": "dashboard",
+            "stars": 946
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Smart Washing Machine",
+          "description": "[903⭐] - Smart washing machine UI challenge app with Box2D physic engine by Tomasz Pawlikowski.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2022-10-23T11:17:13Z",
+            "owner": "pawlik92",
+            "repo": "flutter_whirlpool",
+            "stars": 910
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Starter Kit",
+          "description": "[804⭐] - App Store implementation to learn Bloc, RxDart, Sqflite, Fluro and Dio. by King Wu.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2022-05-18T06:13:38Z",
+            "owner": "AkoWu101",
+            "repo": "flutter_starter_kit",
+            "stars": 805
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Feather",
+          "description": "[682⭐] - Beautiful weather application. Application includes RxDart, Dio, BLoC, i18n, unit and widget tests. by Jakub Homlala.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2025-03-01T20:25:33Z",
+            "owner": "jhomlala",
+            "repo": "feather",
+            "stars": 690
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Restaurant Menu",
+          "description": "[624⭐] - Restaurant menu by Braulio Cassule.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2020-07-26T04:18:56Z",
+            "owner": "braulio94",
+            "repo": "menu_flutter",
+            "stars": 619
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mates",
+          "description": "[598⭐] - How to load profiles from the randomuser.me API and a nice profile details page by Iiro Krankka.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2023-02-10T07:45:26Z",
+            "owner": "CodemateLtd",
+            "repo": "FlutterMates",
+            "stars": 599
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Todo",
+          "description": "[582⭐] - Todo template from Dribble by Marc L.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2020-10-06T05:02:25Z",
+            "owner": "MarcL01",
+            "repo": "FlutterTodo",
+            "stars": 579
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ActingWeb First_App",
+          "description": "[517⭐] - Starter app with basic elements for a team-developed production-quality app by Greger Wedel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2025-03-31T14:29:41Z",
+            "owner": "gregertw",
+            "repo": "actingweb_firstapp",
+            "stars": 519
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Movie Details",
+          "description": "[429⭐] - Movie details page by Iiro Krankka.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2018-06-19T17:26:56Z",
+            "owner": "roughike",
+            "repo": "movie-details-ui",
+            "stars": 432
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Book",
+          "description": "[354⭐] - Bookshelf by Ardiansyah Putra.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2018-03-10T21:57:01Z",
+            "owner": "putraxor",
+            "repo": "flutter-book-app",
+            "stars": 351
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beautiful Timelines",
+          "description": "[330⭐] - A set of beautiful timelines by Julio Bitencourt.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2020-09-16T14:49:19Z",
+            "owner": "JHBitencourt",
+            "repo": "beautiful_timelines",
+            "stars": 336
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Liquid Pay Payment App",
+          "description": "[309⭐] - Liquid Pay App Concept by Long Hoang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2022-11-26T11:29:08Z",
+            "owner": "longhoang2984",
+            "repo": "flutter_payment_app_ui",
+            "stars": 308
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DrawApp",
+          "description": "[240⭐] - Sample Drawing App to demonstrate how to allow user to draw onto canvas with color picker and brush thickness slider by Jake Gough.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2018-12-15T13:36:24Z",
+            "owner": "soupjake",
+            "repo": "drawapp",
+            "stars": 241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cupertino Settings",
+          "description": "[233⭐] - iOS Settings by Matthias Rupp.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Dart",
+            "last_commit": "2021-08-04T09:20:43Z",
+            "owner": "matthinc",
+            "repo": "flutter_cupertino_settings",
+            "stars": 236
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Music Player",
+          "description": "[224⭐] - music player component by Tobe O.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2019-12-05T13:52:12Z",
+            "owner": "thosakwe",
+            "repo": "flutter_music_player",
+            "stars": 224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Weather",
+          "description": "[156⭐] - Weather app to learn how to use Canvas and Animation by Alessandro Aime.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Dart",
+            "last_commit": "2020-01-27T15:08:17Z",
+            "owner": "alessandroaime",
+            "repo": "Weather",
+            "stars": 154
+          }
+        }
+      ],
+      "title": "Templates"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RustDesk",
+          "description": "[99332⭐] - Open source virtual / remote desktop. TeamViewer alternative. Built with Rust by RustDesk team.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T03:48:32Z",
+            "owner": "rustdesk",
+            "repo": "rustdesk",
+            "stars": 120260
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitTouch",
+          "description": "[1649⭐] - Open source mobile client for GitHub, GitLab, Bitbucket and Gitea by Rongjian Zhang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-07-28T22:09:55Z",
+            "owner": "pd4d10",
+            "repo": "git-touch",
+            "stars": 1693
+          }
+        }
+      ],
+      "title": "Clone"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "m2cgen",
+          "description": "[2915⭐] - CLI tool to convert ML models into native Dart code by BayesWitnesses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-03T17:30:36Z",
+            "owner": "BayesWitnesses",
+            "repo": "m2cgen",
+            "stars": 2995
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MLKit",
+          "description": "[388⭐] - Firebase Machine Learning Kit by Naoya Yoshizawa.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2020-08-20T02:06:55Z",
+            "owner": "azihsoyn",
+            "repo": "flutter_mlkit",
+            "stars": 386
+          }
+        }
+      ],
+      "title": "Machine Learning"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Google Mobile Vision",
+          "description": "[456⭐] - Google Mobile Vision by Eduardo Folly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-09-24T03:47:07Z",
+            "owner": "edufolly",
+            "repo": "flutter_mobile_vision",
+            "stars": 457
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ML Vision Camera Stream",
+          "description": "[273⭐] - ML vision recognitions (QRcode, face, ...) with live camera stream by Aumard Jimmy and Santetis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2022-03-23T16:48:06Z",
+            "owner": "rushio-consulting",
+            "repo": "flutter_camera_ml_vision",
+            "stars": 267
+          }
+        }
+      ],
+      "title": "Vision"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ARKit Plugin",
+          "description": "[830⭐] - Wrapper for ARKit - Apple's augmented reality platform for iOS by Olexandr Leuschenko.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-06-15T08:21:27Z",
+            "owner": "olexale",
+            "repo": "arkit_flutter_plugin",
+            "stars": 842
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ARCore Plugin",
+          "description": "[446⭐] - Augmented reality with ARCore platform by Gian Marco Di Francesco.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2024-03-28T11:34:13Z",
+            "owner": "giandifra",
+            "repo": "arcore_flutter_plugin",
+            "stars": 451
+          }
+        }
+      ],
+      "title": "Augmented Reality"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "InAppWebView",
+          "description": "[3611⭐] - Add inline WebView widgets or open an in-app browser window by Lorenzo Pichilli.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-02-10T16:40:46Z",
+            "owner": "pichillilorenzo",
+            "repo": "flutter_inappwebview",
+            "stars": 3753
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Local Notifications",
+          "description": "[2624⭐] - Plugin for displaying local notifications by Michael Bui.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-08T08:49:59Z",
+            "owner": "MaikuB",
+            "repo": "flutter_local_notifications",
+            "stars": 2660
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Permission Handler",
+          "description": "[2144⭐] - A Flutter permission plugin which provides a cross-platform (iOS, Android) API to request and check permissions by Baseflow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-11T06:59:34Z",
+            "owner": "Baseflow",
+            "repo": "flutter-permission-handler",
+            "stars": 2171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "File Picker",
+          "description": "[1494⭐] - Native file explorer to load absolute file path by Miguel Ruivo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-12T08:40:45Z",
+            "owner": "miguelpruivo",
+            "repo": "flutter_file_picker",
+            "stars": 1555
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebView",
+          "description": "[1491⭐] - Render web content by Hadrien Lejard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-03-19T07:40:21Z",
+            "owner": "fluttercommunity",
+            "repo": "flutter_webview_plugin",
+            "stars": 1492
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Geolocator",
+          "description": "[1311⭐] - A Flutter geolocation plugin which provides easy access to the platform specific location services by Baseflow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-06-12T12:37:38Z",
+            "owner": "Baseflow",
+            "repo": "flutter-geolocator",
+            "stars": 1333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Location",
+          "description": "[1144⭐] - Handle location, handling callbacks to get continuous location by Lyokone.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-07T08:33:23Z",
+            "owner": "Lyokone",
+            "repo": "flutterlocation",
+            "stars": 1157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VPN",
+          "description": "[371⭐] - Access VPN services by Jason C.H.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-06-01T15:39:05Z",
+            "owner": "X-dea",
+            "repo": "flutter_vpn",
+            "stars": 375
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Badger",
+          "description": "[309⭐] - Update app badge on the launcher by Edouard Marquez.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Objective-C",
+            "last_commit": "2024-07-11T23:56:39Z",
+            "owner": "g123k",
+            "repo": "flutter_app_badger",
+            "stars": 309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UDID",
+          "description": "[272⭐] - Persistent UDID across app reinstalls by Leon Kukuk.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-14T09:56:22Z",
+            "owner": "GigaDroid",
+            "repo": "flutter_udid",
+            "stars": 283
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Device Calendar",
+          "description": "Plugin for modifying calendars on the user's device by Built to Roam.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2025-03-08T10:08:22Z",
+            "owner": "builttoroam",
+            "repo": "device_calendar",
+            "stars": 281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Live Activities",
+          "description": "[233⭐] - A plugin to use iOS live activities & Dynamic Island features by Dimitri Dessus.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-07-17T15:17:11Z",
+            "owner": "istornz",
+            "repo": "flutter_live_activities",
+            "stars": 281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WidgetKit",
+          "description": "[?⭐] - A plugins which allows you to create a Widget-Extention for iOS by Thomas Leiter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2021-03-22T09:10:11Z",
+            "owner": "fasky-software",
+            "repo": "flutter_widgetkit",
+            "stars": 264
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Geolocation",
+          "description": "[228⭐] - Fully featured geolocation plugin: current location, location updates, geocode, places and more by Loup.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2022-07-22T10:34:01Z",
+            "owner": "loup-v",
+            "repo": "geolocation",
+            "stars": 230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AppAvailability",
+          "description": "[93⭐] - List, launch and check installed apps by Lorenzo Pichilli.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2023-01-31T11:01:32Z",
+            "owner": "pichillilorenzo",
+            "repo": "flutter_appavailability",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Downloader",
+          "description": "[1⭐] - Create and manage download tasks by HungHD.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2024-11-01T04:30:45Z",
+            "owner": "hnvn",
+            "repo": "flutter_downloader",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Device"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fast QR Reader View",
+          "description": "[292⭐] - Live multicode reader by Facundo Medica.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-07-18T00:08:25Z",
+            "owner": "facundomedica",
+            "repo": "fast_qr_reader_view",
+            "stars": 295
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QR Code Reader",
+          "description": "[232⭐] - QR Code reader plugin by Matheus Villela.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-10-14T10:11:47Z",
+            "owner": "bcko",
+            "repo": "flutter_qrcode_reader",
+            "stars": 235
+          }
+        }
+      ],
+      "title": "Scanner"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Blue",
+          "description": "[2429⭐] - Bluetooth by Paul DeMarco.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-08-05T06:45:46Z",
+            "owner": "pauldemarco",
+            "repo": "flutter_blue",
+            "stars": 2429
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reactive Ble",
+          "description": "[701⭐] - Handles BLE operations for multiple devices by Philips Hue.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-05-22T07:23:49Z",
+            "owner": "PhilipsHue",
+            "repo": "flutter_reactive_ble",
+            "stars": 734
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NFC Reader",
+          "description": "[428⭐] - NFC reader plugin for iOS and Android by Matteo Crippa.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-03-18T13:42:11Z",
+            "owner": "dotintent",
+            "repo": "flutter-nfc-reader",
+            "stars": 443
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NFC Manager",
+          "description": "[235⭐] - Generic NFC plugin for iOS and Android by Naoki Okada.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-04-03T10:29:13Z",
+            "owner": "okadan",
+            "repo": "flutter-nfc-manager",
+            "stars": 249
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beacon broadcast",
+          "description": "[83⭐] - Library for turning your phone into a beacon by Paulina Szklarska.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2022-06-04T10:55:41Z",
+            "owner": "pszklarska",
+            "repo": "beacon_broadcast",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beacons",
+          "description": "[78⭐] - Flutter beacons plugin by Loup.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2020-02-05T17:14:42Z",
+            "owner": "loup-v",
+            "repo": "beacons",
+            "stars": 77
+          }
+        }
+      ],
+      "title": "Bluetooth / NFC / Beacon"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Drift",
+          "description": "Drift is an easy to use, reactive, typesafe persistence library for Dart & Flutter by . Simon Binder",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-12T21:34:38Z",
+            "owner": "simolus3",
+            "repo": "drift",
+            "stars": 3260
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sqflite",
+          "description": "[2972⭐] - SQLite flutter plugin by Alexandre Roux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-01T19:22:19Z",
+            "owner": "tekartik",
+            "repo": "sqflite",
+            "stars": 3018
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ObjectBox",
+          "description": "On-device database for fast cross-platform Dart object persistence by ObjectBox.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-11T06:53:42Z",
+            "owner": "objectbox",
+            "repo": "objectbox-dart",
+            "stars": 1233
+          }
+        }
+      ],
+      "title": "Storage"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OneSignal",
+          "description": "[649⭐] - Push notification service by OneSignal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-03T17:38:39Z",
+            "owner": "OneSignal",
+            "repo": "OneSignal-Flutter-SDK",
+            "stars": 650
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "In App Review",
+          "description": "[360⭐] - Requesting and Writing Reviews for Android, iOS and MacOS by Britannio Jarrett.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-05-20T14:14:42Z",
+            "owner": "britannio",
+            "repo": "in_app_review",
+            "stars": 379
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dialogflow",
+          "description": "[212⭐] - Plugin to easily integrate with dialogflow by Victor Rances.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2020-07-29T06:43:09Z",
+            "owner": "VictorRancesCode",
+            "repo": "flutter_dialogflow",
+            "stars": 211
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Place Dialog",
+          "description": "[44⭐] - Places picker dialog returning the places to the app by David Bennett.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2019-03-15T07:50:36Z",
+            "owner": "pinkfish",
+            "repo": "flutter_places_dialog",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "App Review",
+          "description": "[40⭐] - Requesting and Writing Reviews for Android and iOS by Rody Davis.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Dart",
+            "last_commit": "2019-05-24T18:43:16Z",
+            "owner": "rodydavis",
+            "repo": "app_review",
+            "stars": 40
+          }
+        }
+      ],
+      "title": "Services"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Frameworks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "State management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bloc",
+          "description": "[12288⭐] - Collection of packages that help implement the BLoC design pattern by Felix Angelov.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-10T16:40:08Z",
+            "owner": "felangel",
+            "repo": "bloc",
+            "stars": 12483
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GetX",
+          "description": "[11002⭐] - Contextless, State-management & navigation by Jonny Borges.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-06-12T14:17:03Z",
+            "owner": "jonataslaw",
+            "repo": "getx",
+            "stars": 11197
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RiverPod",
+          "description": "[6922⭐] - Provider, but different by Remi Rousselet.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-09T13:44:59Z",
+            "owner": "rrousselGit",
+            "repo": "riverpod",
+            "stars": 7365
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Provider",
+          "description": "[5230⭐] - State-management library for Flutter by Remi Rousselet.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-03-10T14:53:05Z",
+            "owner": "rrousselGit",
+            "repo": "provider",
+            "stars": 5256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MobX",
+          "description": "[2451⭐] - Supercharge the state-management in your apps with Transparent Functional Reactive Programming (TFRP). Port of MobX from the Js/React land.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-07-31T13:27:36Z",
+            "owner": "mobxjs",
+            "repo": "mobx.dart",
+            "stars": 2466
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Get It",
+          "description": "[1426⭐] - Simple direct Service Locator that allows to decouple the interface from a concrete implementation by Thomas Burkhartb.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-20T00:32:30Z",
+            "owner": "flutter-it",
+            "repo": "get_it",
+            "stars": 1474
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Signals",
+          "description": "[658⭐] - Reactive programming made simple. Port of Signals pattern by Rody Davis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-10T07:47:07Z",
+            "owner": "rodydavis",
+            "repo": "signals.dart",
+            "stars": 806
+          }
+        }
+      ],
+      "title": "Standard"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fish",
+          "description": "[7313⭐] - Alibaba Redux implementation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2022-02-17T16:21:20Z",
+            "owner": "alibaba",
+            "repo": "fish-redux",
+            "stars": 7273
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Redux",
+          "description": "[1653⭐] - Built to work with redux.dart, utilities that allow you to easily consume a Redux Store to build Widgets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2023-04-06T02:42:49Z",
+            "owner": "brianegan",
+            "repo": "flutter_redux",
+            "stars": 1645
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Inject",
+          "description": "[867⭐] - Compile-time dependency injection by Google.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Dart",
+            "last_commit": "2020-10-14T21:56:08Z",
+            "owner": "google",
+            "repo": "inject.dart",
+            "stars": 860
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Redux.dart",
+          "description": "[521⭐] - Port of Redux to Dart with an ecosystem of middleware, Flutter integrations, and time traveling dev tools by John Ryan and Brian Egan.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2023-03-09T19:10:02Z",
+            "owner": "fluttercommunity",
+            "repo": "redux.dart",
+            "stars": 519
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flux",
+          "description": "[376⭐] - Implementation of the Flux framework by Google.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Dart",
+            "last_commit": "2021-10-13T08:29:42Z",
+            "owner": "google",
+            "repo": "flutter_flux",
+            "stars": 376
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Built redux",
+          "description": "[77⭐] - Automatic subscribing to your redux stores. Based on the built pattern by David Marne.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2021-03-11T23:21:35Z",
+            "owner": "davidmarne",
+            "repo": "flutter_built_redux",
+            "stars": 76
+          }
+        }
+      ],
+      "title": "Redux / ELM / Dependency Injection"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hooks",
+          "description": "[3280⭐] - Advanced code sharing between widgets by Remi Rousselet.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-05-27T18:30:23Z",
+            "owner": "rrousselGit",
+            "repo": "flutter_hooks",
+            "stars": 3332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Functional widget",
+          "description": "[608⭐] - Code generator writing widgets as functions with annotations by Remi Rousselet.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Dart",
+            "last_commit": "2025-03-24T12:27:52Z",
+            "owner": "rrousselGit",
+            "repo": "functional_widget",
+            "stars": 606
+          }
+        }
+      ],
+      "title": "Widgets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Graphql",
+          "description": "[3267⭐] - Implementation of the GraphQL spec by Zino App B.V..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-07-28T12:37:08Z",
+            "owner": "zino-hofmann",
+            "repo": "graphql-flutter",
+            "stars": 3269
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ferry",
+          "description": "[627⭐] - Powerful & Extensible GraphQL Client by Sat Mandir Khalsa.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-07-05T20:37:48Z",
+            "owner": "gql-dart",
+            "repo": "ferry",
+            "stars": 636
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeoFlutterFire",
+          "description": "[306⭐] - Implementation of GeoFirestore for flutter by Darshan Gowda.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-06-25T17:38:40Z",
+            "owner": "DarshanGowda0",
+            "repo": "GeoFlutterFire",
+            "stars": 305
+          }
+        }
+      ],
+      "title": "Data"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Serverpod",
+          "description": "Write your server-side code and API in Dart.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-10T22:19:16Z",
+            "owner": "serverpod",
+            "repo": "serverpod",
+            "stars": 3239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nitric",
+          "description": "[1842⭐] - Open source framework with pluggable deployment by Nitric..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-04T22:35:08Z",
+            "owner": "nitrictech",
+            "repo": "nitric",
+            "stars": 2009
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dynamic Widget",
+          "description": "[1630⭐] - Build your dynamic UI with json, and the json format is very similar with flutter widget code by Denny Deng.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2025-06-25T12:35:01Z",
+            "owner": "dengyin2000",
+            "repo": "dynamic_widget",
+            "stars": 1653
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Parse for Flutter",
+          "description": "[583⭐] Open source backend framework by ParsePlatform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-12T04:11:23Z",
+            "owner": "parse-community",
+            "repo": "Parse-SDK-Flutter",
+            "stars": 587
+          }
+        }
+      ],
+      "title": "Backend"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SpinKit",
+          "description": "[3114⭐] - Animated loading indicators by Jeremiah Ogbomo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-06-22T04:09:07Z",
+            "owner": "jogboms",
+            "repo": "flutter_spinkit",
+            "stars": 3144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AnimatedTextKit",
+          "description": "[1735⭐] - A collection of cool text animations by Ayush Agarwal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2025-10-04T13:42:18Z",
+            "owner": "aagarwal1012",
+            "repo": "Animated-Text-Kit",
+            "stars": 1773
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Staggered Animations",
+          "description": "[1644⭐] - Easily add staggered animations to your ListView, GridView, Column and Row by mobiten.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2023-03-22T14:26:12Z",
+            "owner": "The-ring-io",
+            "repo": "flutter_staggered_animations",
+            "stars": 1674
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simple Animations",
+          "description": "Create awesome custom animations easily by Felix Blaschke.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-05-23T17:22:05Z",
+            "owner": "felixblaschke",
+            "repo": "simple_animations",
+            "stars": 1058
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Funvas",
+          "description": "[544⭐] - Create fun time based canvas animations by creativecreatorormaybenot.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-03-14T01:43:24Z",
+            "owner": "creativecreatorormaybenot",
+            "repo": "funvas",
+            "stars": 557
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Drawing Animation",
+          "description": "[505⭐] - Create drawing line animations based on SVG path data by Carl Hauck.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-08-22T15:30:14Z",
+            "owner": "haucky",
+            "repo": "drawing_animation",
+            "stars": 512
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Villains",
+          "description": "[366⭐] - Page transition animations by Norbert Kozsir.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2022-08-26T08:08:49Z",
+            "owner": "Norbert515",
+            "repo": "flutter_villains",
+            "stars": 367
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flutter-animation-set",
+          "description": "[283⭐] - Easy to build an animation set by efoxTeam.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2021-05-15T12:03:02Z",
+            "owner": "YYFlutter",
+            "repo": "flutter-animation-set",
+            "stars": 285
+          }
+        }
+      ],
+      "title": "Animation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Patrol",
+          "description": "[1131⭐] - Easy-to-learn, powerful UI testing framework eliminating limitations of , , and by LeanCode.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-12T14:24:29Z",
+            "owner": "leancodepl",
+            "repo": "patrol",
+            "stars": 1404
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flutter_convenient_test",
+          "description": "[556⭐] - Tests with action history, time travelling, screenshots, rapid re-execution, video recordings, interactive mode by fzyzcjy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-07-11T10:09:23Z",
+            "owner": "fzyzcjy",
+            "repo": "flutter_convenient_test",
+            "stars": 586
+          }
+        }
+      ],
+      "title": "Testing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Engines"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Flame",
+          "description": "[10193⭐] - Minimalist game engine by Luan Nico.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-12T13:20:28Z",
+            "owner": "flame-engine",
+            "repo": "flame",
+            "stars": 10717
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bonfire",
+          "description": "[1384⭐] - Flame engine based game engine for 2D RPG games.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-09T17:34:06Z",
+            "owner": "RafaelBarbosatec",
+            "repo": "bonfire",
+            "stars": 1462
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zerker",
+          "description": "[704⭐] - Lightweight and powerful graphic animation library by drawcall.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2025-09-02T06:12:17Z",
+            "owner": "flutterkit",
+            "repo": "zerker",
+            "stars": 701
+          }
+        }
+      ],
+      "title": "Game"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tetris",
+          "description": "[1648⭐] - Tetris game by YangBin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2025-10-04T10:33:45Z",
+            "owner": "boyan01",
+            "repo": "flutter-tetris",
+            "stars": 1672
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crush",
+          "description": "[609⭐] - How to build a Math-3 game, like Candy Crush, Bejeweled by Didier Boelens.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-04-02T14:33:30Z",
+            "owner": "boeledi",
+            "repo": "flutter_crush",
+            "stars": 614
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2048",
+          "description": "[361⭐] - 2048 game by Anuran Barman.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2021-10-11T00:46:28Z",
+            "owner": "anuranBarman",
+            "repo": "2048",
+            "stars": 376
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flip",
+          "description": "[268⭐] - Reversi game by Andrew Brogdon.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-06-28T03:29:56Z",
+            "owner": "redbrogdon",
+            "repo": "flutterflip",
+            "stars": 269
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ghost Rigger",
+          "description": "[256⭐] - Ghost Rigger is a cyberpunk inspired puzzle game by Iain Smith and Julio Ernesto Rodríguez Cabañas.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2020-07-10T09:54:56Z",
+            "owner": "Float-like-a-dash-Sting-like-a-dart",
+            "repo": "GhostRigger",
+            "stars": 266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Party Charades",
+          "description": "[209⭐] - Party charades by Kamil Rykowski.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2019-10-25T12:40:58Z",
+            "owner": "vintage",
+            "repo": "party_flutter",
+            "stars": 210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Slide Puzzle",
+          "description": "[180⭐] - Classic slide (15) puzzle by Kevin Moore.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-07-11T18:18:42Z",
+            "owner": "kevmoo",
+            "repo": "slide_puzzle",
+            "stars": 179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Space Empires",
+          "description": "[101⭐] - A 4X Space themed strategy game by Satyam Sharma.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2022-04-13T15:55:51Z",
+            "owner": "SatyamX64",
+            "repo": "Space-Empires",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TRex",
+          "description": "[7⭐] - Port of the famous Chrome's Trex game by Renan C. Araújo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-06-06T11:12:13Z",
+            "owner": "renancaraujo",
+            "repo": "trex-flame",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Open source games"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Open Source Apps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RustDesk",
+          "description": "[99332⭐] - Open source virtual/remote desktop and TeamViewer alternative. Built with Flutter and Rust by RustDesk team.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T03:48:32Z",
+            "owner": "rustdesk",
+            "repo": "rustdesk",
+            "stars": 120260
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AppFlowy",
+          "description": "[65821⭐] - Open Source Notion Alternative. You are in charge of your data and customizations. Built with Flutter and Rust by AppFlowy team.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-11T13:01:19Z",
+            "owner": "AppFlowy-IO",
+            "repo": "AppFlowy",
+            "stars": 75290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spotube",
+          "description": "Open source Spotify client for desktop and mobile by Kingkor Roy Tirtho.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-07-30T16:53:36Z",
+            "owner": "KRTirtho",
+            "repo": "spotube",
+            "stars": 48325
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "History Of Everything",
+          "description": "[6568⭐] - Animated vertical timeline of humanity by 2D, Inc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2021-09-22T19:36:20Z",
+            "owner": "2d-inc",
+            "repo": "HistoryOfEverything",
+            "stars": 6582
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Developer Quest",
+          "description": "[2982⭐] - Become a tech lead, slay bugs by 2D, Inc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2021-05-05T10:56:43Z",
+            "owner": "2d-inc",
+            "repo": "developer_quest",
+            "stars": 2970
+          }
+        }
+      ],
+      "title": "Premium"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Spotube",
+          "description": "[41650⭐] - A lightweight free Spotify crossplatform-client with no Spotify premium account requirement by KRTirtho.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-07-30T16:53:36Z",
+            "owner": "KRTirtho",
+            "repo": "spotube",
+            "stars": 48325
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flutter Common Widgets",
+          "description": "[23710⭐] - Collection of official widgets demos & docs in chinese to help developers learn quickly by Alibaba Auction Frontend Team.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2023-12-11T20:49:42Z",
+            "owner": "alibaba",
+            "repo": "flutter-go",
+            "stars": 23655
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flutter Team Samples",
+          "description": "[18613⭐] - Collection of examples (including maps, json, Material and Cupertino) by the Flutter team.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-12T19:21:26Z",
+            "owner": "flutter",
+            "repo": "samples",
+            "stars": 19230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fwitter",
+          "description": "[4157⭐] - Full Twitter clone using Firebase solution by Sonu Sharma.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-07-31T04:58:06Z",
+            "owner": "TheAlphamerc",
+            "repo": "flutter_twitter_clone",
+            "stars": 4234
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitJournal",
+          "description": "[3893⭐] - Journaling your data in a Git Repo by Vishesh Handa.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-05-26T13:49:39Z",
+            "owner": "GitJournal",
+            "repo": "GitJournal",
+            "stars": 4203
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AuthPass",
+          "description": "[2471⭐] - Keepass compatible password manager for mobile and desktop by hpoul.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-11T16:59:10Z",
+            "owner": "authpass",
+            "repo": "authpass",
+            "stars": 2763
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pokedex",
+          "description": "Pokedex app with beautiful UI and smooth animation by Hung Pham.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-04-03T12:06:03Z",
+            "owner": "hungps",
+            "repo": "flutter_pokedex",
+            "stars": 2534
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlutterGram",
+          "description": "[2393⭐] - Complete Instagram based on Firestore & Google Functions by MDanics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-08-07T19:39:38Z",
+            "owner": "mdanics",
+            "repo": "fluttergram",
+            "stars": 2388
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BloomeeTunes",
+          "description": "[1304⭐] - Multi-Source Music Streaming Application by HemantKArya.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-07-30T09:22:34Z",
+            "owner": "HemantKArya",
+            "repo": "BloomeeTunes",
+            "stars": 2187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Timy Messenger",
+          "description": "[2107⭐] - Group messaging app with a focus on organizing events by Miguel Beltran and Franz Heinfling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2023-01-09T11:56:55Z",
+            "owner": "janoodleFTW",
+            "repo": "timy-messenger",
+            "stars": 2105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Harpy",
+          "description": "[2084⭐] - Feature rich Twitter client by Roberto Doering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-08-01T23:32:46Z",
+            "owner": "robertodoering",
+            "repo": "harpy",
+            "stars": 2075
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Linwood Butterfly",
+          "description": "[1463⭐] - Powerful note taking app and an alternative to OneNote by CodeDoctorDE.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-12T18:22:50Z",
+            "owner": "LinwoodDev",
+            "repo": "Butterfly",
+            "stars": 1953
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Music Player",
+          "description": "[1761⭐] - Full featured music player by Pawan Kumar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-01-15T08:28:42Z",
+            "owner": "iampawan",
+            "repo": "Flutter-Music-Player",
+            "stars": 1785
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Openreads",
+          "description": "[1303⭐] - A simple privacy oriented mobile books tracker using Open Library API by mateusz-bak.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-07-20T21:01:26Z",
+            "owner": "mateusz-bak",
+            "repo": "openreads",
+            "stars": 1603
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WhatTodo",
+          "description": "[1250⭐] - Todoist like UI by Burhanuddin Rashid.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-02-12T14:45:30Z",
+            "owner": "burhanrashid52",
+            "repo": "WhatTodo",
+            "stars": 1266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trace",
+          "description": "[1137⭐] - Modern and powerful crypto portfolio & market explorer by Trent Piercy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2023-03-07T03:04:30Z",
+            "owner": "trentpiercy",
+            "repo": "trace",
+            "stars": 1146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Taskist",
+          "description": "[1051⭐] - Taskist is a ToDo List app for Task Management by Hugo EXTRAT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2023-12-15T14:34:43Z",
+            "owner": "huextrat",
+            "repo": "Taskist",
+            "stars": 1059
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spacex-Go",
+          "description": "[913⭐] - Simple yet powerful, open-source SpaceX launch tracker. jesusrp98.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-03-28T22:03:32Z",
+            "owner": "jesusrp98",
+            "repo": "spacex-go",
+            "stars": 923
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cinematic",
+          "description": "[900⭐] - UI for Movie DB Public API by Aaron Oertel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2020-10-01T18:04:46Z",
+            "owner": "aaronoe",
+            "repo": "FlutterCinematic",
+            "stars": 902
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chillify",
+          "description": "Fancy music app made with Provider and Bloc pattern by Karim Elghamry.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2022-03-31T13:22:38Z",
+            "owner": "KarimElghamry",
+            "repo": "chillify",
+            "stars": 757
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Planets",
+          "description": "[756⭐] - Planet exploration that demonstrate rich UI by Sergi Martínez.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2022-02-01T13:16:20Z",
+            "owner": "sergiandreplace",
+            "repo": "flutter_planets_tutorial",
+            "stars": 753
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trinity Orientation @ Univ Toronto",
+          "description": "[618⭐] - Orientation week at Trinity College, U of T by Matthew Tory.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Dart",
+            "last_commit": "2024-01-24T01:50:28Z",
+            "owner": "matthewtory",
+            "repo": "trinity-orientation-2018",
+            "stars": 619
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NewsBuzz",
+          "description": "[599⭐] - Firebase backed news reader using News API by Ankur Kedia.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2018-10-27T21:29:39Z",
+            "owner": "theankurkedia",
+            "repo": "newsbuzz",
+            "stars": 598
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reply",
+          "description": "[558⭐] - 'Reply' Material Design case study by Frederik Schweiger.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2021-08-02T23:19:48Z",
+            "owner": "flschweiger",
+            "repo": "reply",
+            "stars": 555
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BookSearch",
+          "description": "[548⭐] - Digital BookShelf for your reading progress by Norbert515.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2018-12-31T10:45:42Z",
+            "owner": "Norbert515",
+            "repo": "BookSearch",
+            "stars": 549
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Meme Chat",
+          "description": "[543⭐] - Chat app on Flutter, using Firebase, Google Sign In, and device camera integration by a team of Googlers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2021-02-08T15:53:21Z",
+            "owner": "efortuna",
+            "repo": "memechat",
+            "stars": 545
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DroidKaigi2018-flutter",
+          "description": "[508⭐] - Unofficial conference app for DroidKaigi 2018 Tokyo by konifar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2018-05-01T07:15:10Z",
+            "owner": "konifar",
+            "repo": "droidkaigi2018-flutter",
+            "stars": 502
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beer-Me-Up",
+          "description": "[494⭐] - Beer tracking nicely designed by Benoit Letondor.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Dart",
+            "last_commit": "2021-01-28T06:59:35Z",
+            "owner": "benoitletondor",
+            "repo": "Beer-Me-Up",
+            "stars": 493
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deer",
+          "description": "[459⭐] - Minimalist Todo Planner built using BLoC pattern by Aleksander Woźniak.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2020-11-11T16:33:35Z",
+            "owner": "aleksanderwozniak",
+            "repo": "deer",
+            "stars": 460
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Enigma",
+          "description": "Privacy chat with end-to-end encryption by AmitJoki.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2023-01-09T11:47:52Z",
+            "owner": "AmitJoki",
+            "repo": "Enigma",
+            "stars": 401
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lime",
+          "description": "[373⭐] - Lime social network by Sebastian Sellmair.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2018-05-31T15:20:20Z",
+            "owner": "fablue",
+            "repo": "lime-flutter",
+            "stars": 373
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Let's Draw",
+          "description": "[329⭐] - A simple drawing app made by JideGuru.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-08-17T01:03:07Z",
+            "owner": "JideGuru",
+            "repo": "flutter_drawing_board",
+            "stars": 340
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TailorMade",
+          "description": "[334⭐] - Managing a Fashion designer's daily routine using a mixture of ReBLoC w/ Firebase Cloud Store & Functions by Jeremiah Ogbomo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2023-08-15T23:19:12Z",
+            "owner": "jogboms",
+            "repo": "tailor_made",
+            "stars": 338
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tourism",
+          "description": "[305⭐] - Tourism app based on redux w/ animations & i18n by blueMix.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2018-10-25T17:59:13Z",
+            "owner": "bluemix",
+            "repo": "Tourism-Demo",
+            "stars": 308
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mooltik",
+          "description": "[221⭐] - Animation app for making cartoons by Rustem Kakimov.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-02-21T00:51:40Z",
+            "owner": "ruskakimov",
+            "repo": "mooltik",
+            "stars": 223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Superhero Interaction",
+          "description": "[220⭐] - Cool Superhero interaction animation by Pinkesh Darji.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2019-05-27T06:58:00Z",
+            "owner": "pinkeshdarji",
+            "repo": "SuperHeroInteraction",
+            "stars": 218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Instory",
+          "description": "[206⭐] - Instgram story downloader with a beautiful UI Sarath.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Dart",
+            "last_commit": "2020-09-16T04:41:28Z",
+            "owner": "InvertedX",
+            "repo": "instory",
+            "stars": 205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Transform Widget",
+          "description": "Image widgets as 3D game engine sprites by Paul Thomas.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2018-11-25T15:28:33Z",
+            "owner": "DrPaulT",
+            "repo": "flutter-engine-test",
+            "stars": 27
+          }
+        }
+      ],
+      "title": "Top"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FVM",
+          "description": "[5191⭐] - Flutter Version Management: A simple cli to manage Flutter SDK versions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-12T01:34:27Z",
+            "owner": "conceptadev",
+            "repo": "fvm",
+            "stars": 5499
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Very Good Cli",
+          "description": "[2304⭐] - Very Good Command Line Interface for Dart created by Very Good Ventures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-12T09:50:57Z",
+            "owner": "VeryGoodOpenSource",
+            "repo": "very_good_cli",
+            "stars": 2406
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Launcher Icons",
+          "description": "Generate your launcher icons easily by Mark O'Sullivan and Franz Silva.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2025-06-10T17:44:14Z",
+            "owner": "fluttercommunity",
+            "repo": "flutter_launcher_icons",
+            "stars": 2120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flutter Sidekick",
+          "description": "[1673⭐] - Simple app to make Flutter development more delightful by Leo Farias.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-06-11T09:04:13Z",
+            "owner": "leoafarias",
+            "repo": "sidekick",
+            "stars": 1688
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlutterGen",
+          "description": "[1564⭐] - Assets code generator for your images, fonts, colors, etc — Get rid of String-based APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-12T10:10:06Z",
+            "owner": "FlutterGen",
+            "repo": "flutter_gen",
+            "stars": 1579
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Melos",
+          "description": "[1382⭐] - Manage projects with multiple packages, automated versioning, changelogs & publishing via Conventional Commits by Invertase.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-07-21T20:59:31Z",
+            "owner": "invertase",
+            "repo": "melos",
+            "stars": 1478
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dart Code Metrics",
+          "description": "[863⭐] - Additional linter which reports code metrics, checks for anti-patterns and provides additional rules for the Dart analyzer by Dart Code Checker team.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Dart",
+            "last_commit": "2023-07-16T15:30:39Z",
+            "owner": "dart-code-checker",
+            "repo": "dart-code-metrics",
+            "stars": 863
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appainter",
+          "description": "[721⭐] - A material theme editor and generator for Flutter by Joshua Tang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-12T23:28:44Z",
+            "owner": "zeshuaro",
+            "repo": "appainter",
+            "stars": 760
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flutter Flavorizr",
+          "description": "[533⭐] - CLI utility to easily generate flavors for Android and iOS in less than 3 minutes by Angelo Cassano.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-12T19:10:08Z",
+            "owner": "AngeloAvv",
+            "repo": "flutter_flavorizr",
+            "stars": 570
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fontify",
+          "description": "[107⭐] - CLI tool to convert SVG icons to OTF font and generate Flutter-compatible class by Igor Kharakhordin.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Dart",
+            "last_commit": "2024-06-11T14:24:34Z",
+            "owner": "westracer",
+            "repo": "fontify",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Environment Configuration",
+          "description": "[93⭐] - CLI tool to generate configurations for application environments by TatsuUkraine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2025-03-08T22:01:36Z",
+            "owner": "TatsuUkraine",
+            "repo": "dart_environment_config",
+            "stars": 91
+          }
+        }
+      ],
+      "title": "Utilities"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Desktop Embedding",
+          "description": "[7090⭐] - Desktop implementations of the Flutter embedding API by Google.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2024-04-03T14:28:40Z",
+            "owner": "google",
+            "repo": "flutter-desktop-embedding",
+            "stars": 7050
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Golang Desktop Embedder",
+          "description": "[5929⭐] - Golang embedder for desktop by Pierre Champion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T00:02:29Z",
+            "owner": "go-flutter-desktop",
+            "repo": "go-flutter",
+            "stars": 5933
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fluent UI",
+          "description": "[3305⭐] - Microsoft's Fluent Design System in Flutter by Bruno D'Luka.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-03T11:27:07Z",
+            "owner": "bdlukaa",
+            "repo": "fluent_ui",
+            "stars": 3456
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MacOS UI",
+          "description": "[2076⭐] - Widgets and themes implementing the current macOS design language by Groovin Chip.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2025-10-19T21:06:28Z",
+            "owner": "macosui",
+            "repo": "macos_ui",
+            "stars": 2135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rust Desktop Embedder",
+          "description": "[2116⭐] - Rust embedder for desktop by juju.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-06-14T16:25:29Z",
+            "owner": "flutter-rs",
+            "repo": "flutter-rs",
+            "stars": 2115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Raspberry Pi Embedder",
+          "description": "[1848⭐] - Light-weight Embedder for Raspberry Pi by Hannes Winkler.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-01-31T15:29:37Z",
+            "owner": "ardera",
+            "repo": "flutter-pi",
+            "stars": 1980
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Flutter Desktop",
+          "description": "[1658⭐] - A curated list of awesome things related to Flutter desktop by LeanFlutter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-03-30T07:08:18Z",
+            "owner": "leanflutter",
+            "repo": "awesome-flutter-desktop",
+            "stars": 1709
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bitsdojo_window",
+          "description": "Customize windows owner-drawn chrome by BitsDojo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2023-12-24T00:42:49Z",
+            "owner": "bitsdojo",
+            "repo": "bitsdojo_window",
+            "stars": 842
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Native Shell",
+          "description": "[658⭐] - Experimental embedder for Flutter by Matej Knopp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-04-21T15:31:31Z",
+            "owner": "nativeshell",
+            "repo": "nativeshell",
+            "stars": 667
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ubuntu Yaru",
+          "description": "[347⭐] - Distinct look and feel of the Ubuntu Desktop by Ubuntu.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-07-22T10:59:30Z",
+            "owner": "ubuntu",
+            "repo": "yaru.dart",
+            "stars": 390
+          }
+        }
+      ],
+      "title": "Desktop"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Podcasts"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Community"
+    },
+    {
+      "description": "To the extent possible under law, Robert Felker has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:08:44.694Z",
+    "original_repository": "Solido/awesome-flutter",
+    "original_repository_sha": "1111f0e9b62726b6649d1116992e1923db000198",
+    "enhanced_repository": "enhansome/enhansome-flutter",
+    "enhanced_repository_description": null,
+    "title": "Awesome flutter with stars"
+  }
+}
