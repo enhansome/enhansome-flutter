@@ -83,7 +83,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 * [Norbert](https://medium.com/@norbertkozsir) - In depth articles, features and app creation by [Norbert515](https://github.com/Norbert515).
 * [Flutter Tips](https://medium.com/@diegoveloper) - Articles, tips & tricks in the development by [Diego Velásquez](https://twitter.com/diegoveloper).
 * [FilledStacks](https://www.filledstacks.com/) - Tutorials and guides on development by [Dane Mackier](https://www.instagram.com/filledstacks/).
-* [Awesome Flutter tips](https://github.com/erluxman/awesomefluttertips/) ⭐ 2,945 | 🐛 8 | 🌐 Dart | 📅 2022-09-30 - Tips to help developers increase productivity by [erluxman](https://twitter.com/erluxman/).
+* [Awesome Flutter tips](https://github.com/erluxman/awesomefluttertips/) ⭐ 2,943 | 🐛 8 | 🌐 Dart | 📅 2022-09-30 - Tips to help developers increase productivity by [erluxman](https://twitter.com/erluxman/).
 * [Flutter4Fun](http://flutter4fun.com) - UI Challenge implementation blog by [Iman Khoshabi](https://github.com/imaNNeoFighT).
 * [Flutter Stack Weekly](https://blog.canopas.com/tagged/canopas-flutter-weekly) - Weekly newsletter on new development and updates curated by [Jimmy Sanghani](https://twitter.com/jimmys0251).
 
@@ -95,7 +95,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### Beginner
 
-* [Roadmap to Flutter Development](https://github.com/olexale/flutter_roadmap) ⭐ 5,936 | 🐛 1 | 📅 2024-12-24 \[5794⭐] - Visual roadmap with principles, patterns, and frameworks for Flutter newbies by [Olexandr Leuschenko](https://github.com/olexale).
+* [Roadmap to Flutter Development](https://github.com/olexale/flutter_roadmap) ⭐ 5,937 | 🐛 1 | 📅 2024-12-24 \[5794⭐] - Visual roadmap with principles, patterns, and frameworks for Flutter newbies by [Olexandr Leuschenko](https://github.com/olexale).
 * [Beginner's Guide](https://github.com/antz22/ultimate-guide-to-flutter) ⭐ 479 | 🐛 0 | 🌐 Dart | 📅 2023-02-14 \[431⭐] - Comprehensive guide to the basics of Flutter and Firebase by [Anthony](https://github.com/antz22).
 * [Layout Cheat Sheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e) - Extensive examples of layout widgets by [Tomek Polański](https://github.com/tomaszpolanski).
 * [Getting Started with Flutter](https://www.raywenderlich.com/24499516-getting-started-with-flutter) - by [raywenderlich.com](https://www.raywenderlich.com).
@@ -150,14 +150,14 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 * [Flyer Chat](https://github.com/flyerhq/flutter_chat_ui) ⭐ 2,321 | 🐛 28 | 🌐 Dart | 📅 2026-04-18 \[2070⭐] - Community-driven chat UI implementation by the [Flyer Chat team](https://github.com/flyerhq).
 * [Flutter Neumorphic](https://github.com/Idean/Flutter-Neumorphic) ⭐ 2,188 | 🐛 82 | 🌐 Dart | 📅 2024-05-18 \[2137⭐] - Ready to use Neumorphic kit for Flutter with 🕶️ dark mode.
 * [Smooth Page Indicator](https://github.com/Milad-Akarie/smooth_page_indicator) ⭐ 1,450 | 🐛 8 | 🌐 Dart | 📅 2025-12-07 \[1383⭐] - Customizable animated page indicator with a set of built-in effects. [Milad Akarie](https://github.com/Milad-Akarie).
-* [Liquid Pull To Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) ⭐ 1,299 | 🐛 15 | 🌐 Dart | 📅 2023-07-26 \[1290⭐] - A beautiful and custom refresh indicator by [Ayush Agarwal](https://github.com/aagarwal1012/).
+* [Liquid Pull To Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) ⭐ 1,298 | 🐛 15 | 🌐 Dart | 📅 2023-07-26 \[1290⭐] - A beautiful and custom refresh indicator by [Ayush Agarwal](https://github.com/aagarwal1012/).
 * [Before After](https://github.com/xsahil03x/before_after) ⭐ 1,032 | 🐛 2 | 🌐 Dart | 📅 2024-11-16 \[1006⭐] - Beautiful slider which makes it easier to display the difference between two images, by [Sahil Kumar](https://github.com/xsahil03x).
 * [Flushbar](https://github.com/AndreHaueisen/flushbar) ⭐ 1,023 | 🐛 55 | 🌐 Dart | 📅 2023-05-30 \[1023⭐] - Highly configurable Snackbar by [Andre Haueisen](https://github.com/AndreHaueisen).
-* [Tinder Cards](https://github.com/Ivaskuu/tinder_cards) ⭐ 976 | 🐛 8 | 🌐 Dart | 📅 2020-02-05 \[929⭐] - Tinder like cards swipe effect by [Ivascu Adrian](https://github.com/Ivaskuu).
-* [Direct Select](https://github.com/LanarsInc/direct-select-flutter) ⭐ 834 | 🐛 10 | 🌐 Dart | 📅 2024-01-10 \[806⭐] - Selection widget with an ethereal, full-screen modal popup by [Ivan Yatsouba](https://github.com/iyatsouba).
+* [Tinder Cards](https://github.com/Ivaskuu/tinder_cards) ⭐ 977 | 🐛 8 | 🌐 Dart | 📅 2020-02-05 \[929⭐] - Tinder like cards swipe effect by [Ivascu Adrian](https://github.com/Ivaskuu).
+* [Direct Select](https://github.com/LanarsInc/direct-select-flutter) ⭐ 833 | 🐛 11 | 🌐 Dart | 📅 2026-08-13 \[806⭐] - Selection widget with an ethereal, full-screen modal popup by [Ivan Yatsouba](https://github.com/iyatsouba).
 * [Timelines](https://github.com/chulwoo-park/timelines) ⭐ 803 | 🐛 31 | 🌐 Dart | 📅 2023-02-06 \[768⭐] - Powerful & Easy to use timeline package by [Chulwoo Park](https://github.com/chulwoo-park).
 * [Timeline Tile](https://github.com/JHBitencourt/timeline_tile) ⭐ 792 | 🐛 25 | 🌐 Dart | 📅 2024-08-02 \[783⭐] - Tile to help build beautiful and customisable timelines by [Julio Bitencourt](https://github.com/JHBitencourt).
-* [Beautiful\_Popup](https://github.com/jaweii/Flutter_beautiful_popup) ⭐ 758 | 🐛 6 | 🌐 JavaScript | 📅 2022-10-13 \[727⭐] - Beautify your app popup by [jaweii](https://github.com/jaweii).
+* [Beautiful\_Popup](https://github.com/jaweii/Flutter_beautiful_popup) ⭐ 757 | 🐛 6 | 🌐 JavaScript | 📅 2022-10-13 \[727⭐] - Beautify your app popup by [jaweii](https://github.com/jaweii).
 * [Dough](https://github.com/HatFeather/flutter_dough) ⭐ 748 | 🐛 7 | 🌐 Dart | 📅 2026-01-22 \[735⭐] - Widgets for a squishy user interface by [Josiah Saunders](https://github.com/HatFeather).
 * [Scratcher](https://github.com/vintage/scratcher) ⭐ 673 | 🐛 11 | 🌐 Dart | 📅 2023-11-24 \[643⭐] - Scratch card widget which temporarily hides content from user, by [Kamil Rykowski](https://github.com/vintage).
 * [Flip Panel](https://github.com/hnvn/flutter_flip_panel) ⭐ 616 | 🐛 16 | 🌐 Dart | 📅 2022-04-02 \[614⭐] - Flip panel with built-in animation by [HungHD](https://github.com/hnvn).
@@ -166,7 +166,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 * [Radial Menu](https://github.com/xqwzts/flutter_radial_menu) ⭐ 513 | 🐛 10 | 🌐 Dart | 📅 2021-05-11 \[505⭐] - Animated Radial Menu by [Victor Choueiri](https://github.com/xqwzts).
 * [Flutter Tags](https://github.com/Dn-a/flutter_tags) ⭐ 508 | 🐛 40 | 🌐 Dart | 📅 2022-07-26 \[507⭐] - Tags with different customizations by [Di Natale Antonino](https://github.com/Dn-a).
 * [Credit Card Form](https://github.com/Origogi/Flutter-Credit-Card-Input) ⭐ 491 | 🐛 0 | 🌐 Dart | 📅 2021-04-03 \[494⭐] - Animated credit card input form [Origogi](https://github.com/Origogi).
-* [Facebook Reactions](https://github.com/duytq94/facebook-reaction-animation) ⭐ 444 | 🐛 2 | 🌐 Dart | 📅 2024-02-18 \[443⭐] - Facebook reactions widget by [Duy Tran](https://github.com/duytq94).
+* [Facebook Reactions](https://github.com/duytq94/facebook-reaction-animation) ⭐ 443 | 🐛 2 | 🌐 Dart | 📅 2024-02-18 \[443⭐] - Facebook reactions widget by [Duy Tran](https://github.com/duytq94).
 * [Animated Selection Slide](https://github.com/sbilketay/animated_selection_slide) ⭐ 381 | 🐛 0 | 🌐 Dart | 📅 2021-01-31 An animated selection widget by swiping by [Sezgin Bilgetay](https://github.com/sbilketay).
 * [Rounded Loading Button](https://github.com/chrisedg87/flutter_rounded_loading_button) ⭐ 363 | 🐛 27 | 🌐 Dart | 📅 2024-06-17 \[358⭐] - Button with a loading indicator, complete with success and error animations by [Chris Edgington](https://twitter.com/ChrisTheEdg).
 * [Stepper Touch](https://github.com/Rahiche/stepper_touch) ⭐ 359 | 🐛 4 | 🌐 Dart | 📅 2024-09-23 \[355⭐] - Lateral value stepper nicely animated by [Raouf Rahiche](https://github.com/Rahiche).
@@ -176,13 +176,13 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 #### Libraries
 
 * [Shadcn](https://github.com/nank1ro/flutter-shadcn-ui) ⭐ 2,776 | 🐛 35 | 🌐 Dart | 📅 2026-08-04 \[2276⭐] - Shadcn-ui port. Fully customizable UI components.
-* [Forui](https://github.com/forus-labs/forui) ⭐ 2,284 | 🐛 49 | 🌐 Dart | 📅 2026-08-12 \[1379⭐] - Minimalistic UI library heavily inspired by shadcn/ui by [Forus Labs](https://github.com/forus-labs).
+* [Forui](https://github.com/forus-labs/forui) ⭐ 2,285 | 🐛 52 | 🌐 Dart | 📅 2026-08-12 \[1379⭐] - Minimalistic UI library heavily inspired by shadcn/ui by [Forus Labs](https://github.com/forus-labs).
 * [TDesign Flutter](https://github.com/Tencent/tdesign-flutter) ⭐ 1,181 | 🐛 74 | 🌐 Dart | 📅 2026-08-13 \[951⭐] - A useful UI component library matches the TDesign style by [Tencent](https://github.com/Tencent).
 
 #### List
 
 * [StaggeredGridView](https://github.com/letsar/flutter_staggered_grid_view) ⭐ 3,219 | 🐛 91 | 🌐 Dart | 📅 2024-06-05 \[3206⭐] - GridView with tiles of variable sizes by [Romain Rastel](https://github.com/letsar).
-* [Liquid Pull To Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) ⭐ 1,299 | 🐛 15 | 🌐 Dart | 📅 2023-07-26 \[1290⭐] - A beautiful and custom refresh indicator by [Ayush Agarwal](https://github.com/aagarwal1012/).
+* [Liquid Pull To Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) ⭐ 1,298 | 🐛 15 | 🌐 Dart | 📅 2023-07-26 \[1290⭐] - A beautiful and custom refresh indicator by [Ayush Agarwal](https://github.com/aagarwal1012/).
 * [Sticky Headers](https://github.com/slightfoot/flutter_sticky_headers) ⭐ 1,167 | 🐛 43 | 🌐 Dart | 📅 2024-03-15 \[1131⭐] - Configurable sticky headers by [Simon Lightfoot](http://www.devangels.london/).
 * [Typeahead](https://github.com/AbdulRahmanAlHamali/flutter_typeahead) ⭐ 853 | 🐛 3 | 🌐 Dart | 📅 2026-04-04 \[847⭐] - Display overlay suggestions to users as they type by [Abdul Rahman Al Hamali](https://github.com/AbdulRahmanAlHamali).
 * [Reorderables](https://github.com/hanshengchiu/reorderables) ⭐ 767 | 🐛 94 | 🌐 Dart | 📅 2023-06-23 \[759⭐] - Drag\&Drop Table, Row, Column, Wrap(Grid) and SliverList elements by [Hansheng Chiu](https://github.com/hanshengchiu).
@@ -198,29 +198,29 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 #### Bottom bars
 
-* [Bottom Navy Bar](https://github.com/pedromassango/bottom_navy_bar) ⭐ 1,092 | 🐛 23 | 🌐 Dart | 📅 2024-12-14 \[1069⭐] - Beautiful and colorful animated bottom navigation bar by [Pedro Massango](https://github.com/pedromassango).
-* [Fancy Bottom Navigation](https://github.com/tunitowen/fancy_bottom_navigation) ⭐ 840 | 🐛 43 | 🌐 Dart | 📅 2023-12-01 \[808⭐] - Animated bottom navigation by [Tony Owen](https://github.com/tunitowen).
+* [Bottom Navy Bar](https://github.com/pedromassango/bottom_navy_bar) ⭐ 1,091 | 🐛 23 | 🌐 Dart | 📅 2024-12-14 \[1069⭐] - Beautiful and colorful animated bottom navigation bar by [Pedro Massango](https://github.com/pedromassango).
+* [Fancy Bottom Navigation](https://github.com/tunitowen/fancy_bottom_navigation) ⭐ 839 | 🐛 43 | 🌐 Dart | 📅 2023-12-01 \[808⭐] - Animated bottom navigation by [Tony Owen](https://github.com/tunitowen).
 * [Google Nav Bar](https://github.com/sooxt98/google_nav_bar) ⭐ 792 | 🐛 20 | 🌐 Dart | 📅 2024-11-30 \[772⭐] - A modern google style nav bar for flutter by [Sooxt98](http://github.com/sooxt98).
 * [Circular Bottom Navigation](https://github.com/imaNNeoFighT/circular_bottom_navigation) ⭐ 692 | 🐛 5 | 🌐 Dart | 📅 2024-03-18 \[680⭐] - Beautiful animated bottom navigation bar by [Iman Khoshabi](https://github.com/imaNNeoFighT).
-* [Titled Navigation Bar](https://github.com/pedromassango/titled_navigation_bar) ⭐ 376 | 🐛 4 | 🌐 Dart | 📅 2021-11-30 \[370⭐] - Animated bottom navigation bar that switch between icon and title by [Pedro Massango](http://github.com/pedromassango).
+* [Titled Navigation Bar](https://github.com/pedromassango/titled_navigation_bar) ⭐ 375 | 🐛 4 | 🌐 Dart | 📅 2021-11-30 \[370⭐] - Animated bottom navigation bar that switch between icon and title by [Pedro Massango](http://github.com/pedromassango).
 
 #### Bottom Sheets
 
 * [Modal Bottom Sheet](https://github.com/jamesblasco/modal_bottom_sheet) ⭐ 1,971 | 🐛 158 | 🌐 Dart | 📅 2026-07-21 \[1959⭐] - Modal bottom sheet with Material, Cupertino iOS13 or custom appareance by [Jaime Blasco](https://github.com/jamesblasco).
-* [Rubber Bottom Sheet](https://github.com/mcrovero/rubber) ⭐ 564 | 🐛 32 | 🌐 Dart | 📅 2023-08-23 \[566⭐] - Elastic material bottom sheet by [Mattia Crovero](https://github.com/mcrovero).
+* [Rubber Bottom Sheet](https://github.com/mcrovero/rubber) ⭐ 563 | 🐛 32 | 🌐 Dart | 📅 2023-08-23 \[566⭐] - Elastic material bottom sheet by [Mattia Crovero](https://github.com/mcrovero).
 
 #### Sliders
 
-* [Flutter Xlider](https://github.com/Ali-Azmoud/flutter_xlider) ⭐ 524 | 🐛 70 | 🌐 Dart | 📅 2024-04-19 \[524⭐] - A material design slider and range slider, horizontal and vertical, with RTL support by [Ali-Azmoud](https://github.com/Ali-Azmoud).
+* [Flutter Xlider](https://github.com/Ali-Azmoud/flutter_xlider) ⭐ 523 | 🐛 70 | 🌐 Dart | 📅 2024-04-19 \[524⭐] - A material design slider and range slider, horizontal and vertical, with RTL support by [Ali-Azmoud](https://github.com/Ali-Azmoud).
 * [RangeSlider](https://github.com/boeledi/RangeSlider) ⭐ 375 | 🐛 16 | 🌐 Dart | 📅 2024-06-03 \[376⭐] - 2-thumb configurable RangeSlider by [Didier Boelens](https://www.didierboelens.com).
-* [Fluid Slider](https://github.com/rvamsikrishna/flutter_fluid_slider) ⭐ 324 | 🐛 12 | 🌐 Dart | 📅 2022-01-03 \[324⭐] - A slider with a minimal design and fluid like animation by [Vamsi Krishna](https://github.com/rvamsikrishna).
+* [Fluid Slider](https://github.com/rvamsikrishna/flutter_fluid_slider) ⭐ 323 | 🐛 12 | 🌐 Dart | 📅 2022-01-03 \[324⭐] - A slider with a minimal design and fluid like animation by [Vamsi Krishna](https://github.com/rvamsikrishna).
 
 #### UI Helpers
 
-* [ShowCaseView](https://github.com/simformsolutions/flutter_showcaseview) ⭐ 1,926 | 🐛 6 | 🌐 Dart | 📅 2026-07-30 \[1805⭐] - Way to showcase your app features on iOS and Android by [Simform](https://github.com/simformsolutions).
-* [Offline](https://github.com/jogboms/flutter_offline) ⭐ 1,331 | 🐛 10 | 🌐 Dart | 📅 2026-01-06 \[1245⭐] - Tidy utility to handle offline/online connectivity by [Jeremiah Ogbomo](https://twitter.com/jogboms).
+* [ShowCaseView](https://github.com/simformsolutions/flutter_showcaseview) ⭐ 1,925 | 🐛 6 | 🌐 Dart | 📅 2026-07-30 \[1805⭐] - Way to showcase your app features on iOS and Android by [Simform](https://github.com/simformsolutions).
+* [Offline](https://github.com/jogboms/flutter_offline) ⭐ 1,332 | 🐛 10 | 🌐 Dart | 📅 2026-01-06 \[1245⭐] - Tidy utility to handle offline/online connectivity by [Jeremiah Ogbomo](https://twitter.com/jogboms).
 * [Mix](https://github.com/leoafarias/mix) ⭐ 798 | 🐛 30 | 🌐 Dart | 📅 2026-08-11 \[724⭐] - An expressive way to effortlessly build design systems by [Leo Farias](https://github.com/leoafarias).
-* [In View Notifier List](https://github.com/rvamsikrishna/inview_notifier_list) ⭐ 684 | 🐛 1 | 🌐 Dart | 📅 2026-07-04 \[?⭐] - ListView that notify when widgets are on screen within a provided area by [Vamsi Krishna](https://github.com/inview_notifier_list).
+* [In View Notifier List](https://github.com/rvamsikrishna/inview_notifier_list) ⭐ 683 | 🐛 1 | 🌐 Dart | 📅 2026-07-04 \[?⭐] - ListView that notify when widgets are on screen within a provided area by [Vamsi Krishna](https://github.com/inview_notifier_list).
 * [Blurhash](https://github.com/fluttercommunity/flutter_blurhash) ⭐ 574 | 🐛 18 | 🌐 Dart | 📅 2025-04-22 \[556⭐] - Compact representation of a placeholder for an image. Encode a blurry image under 30 characters by [Robert Felker](https://www.linkedin.com/in/robert-felker/).
 
 #### Material Design
@@ -233,7 +233,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 * [Shimmer](https://github.com/hnvn/flutter_shimmer) ⭐ 1,860 | 🐛 38 | 🌐 C++ | 📅 2023-12-28 \[1832⭐] - Shimmer effect while content is loading by [HungHD](https://github.com/hnvn).
 * [Liquid Swipe](https://github.com/iamSahdeep/liquid_swipe_flutter) ⭐ 1,266 | 🐛 7 | 🌐 Dart | 📅 2024-02-08 - Liquid swipe to your stacked containers by [Sahdeep Singh](https://github.com/iamSahdeep).
-* [Wave](https://github.com/i-protoss/wave) ⭐ 1,126 | 🐛 22 | 🌐 Dart | 📅 2026-07-13 \[1122⭐] - Displaying some waves with custom color, duration, floating and blur effects by [RockerFlower](https://github.com/RockerFlower).
+* [Wave](https://github.com/i-protoss/wave) ⭐ 1,125 | 🐛 22 | 🌐 Dart | 📅 2026-07-13 \[1122⭐] - Displaying some waves with custom color, duration, floating and blur effects by [RockerFlower](https://github.com/RockerFlower).
 * [Parallax](https://github.com/roughike/page-transformer) ⭐ 876 | 🐛 9 | 🌐 Dart | 📅 2020-02-10 \[876⭐] - ViewPager by [Iiro Krankka](https://github.com/roughike).
 * [Clay Containers](https://github.com/mcaubrey/clay_containers) ⭐ 458 | 🐛 3 | 🌐 C++ | 📅 2024-02-02 \[456⭐] - Neumorphic widget primitives to serve as the foundation of your own designs by [Michael Charles](https://github.com/mcaubrey).
 * [PhotoFilters](https://github.com/skkallayath/photofilters) ⭐ 431 | 🐛 29 | 🌐 Dart | 📅 2024-01-21 \[427⭐] - Apply filters to an image by [Sharafudheen KK](https://github.com/skkallayath).
@@ -249,7 +249,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 #### Backend-Driven
 
-* [Dynamic Widget](https://github.com/dengyin2000/dynamic_widget) ⭐ 1,653 | 🐛 51 | 🌐 Dart | 📅 2025-06-25 \[1630⭐] - Build your dynamic UI with json, and the json format is very similar with flutter widget code by [Denny Deng](https://github.com/dengyin2000).
+* [Dynamic Widget](https://github.com/dengyin2000/dynamic_widget) ⭐ 1,652 | 🐛 51 | 🌐 Dart | 📅 2025-06-25 \[1630⭐] - Build your dynamic UI with json, and the json format is very similar with flutter widget code by [Denny Deng](https://github.com/dengyin2000).
 
 ### Image
 
@@ -257,16 +257,16 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 * [Photo View](https://github.com/renancaraujo/photo_view) ⭐ 1,997 | 🐛 119 | 🌐 Dart | 📅 2024-09-04 \[1982⭐] - Scalable image view with loading placeholder by [Renan C. Araújo](https://github.com/renancaraujo).
 * [Carousel Slider](https://github.com/serenader2014/flutter_carousel_slider) ⭐ 1,694 | 🐛 216 | 🌐 Dart | 📅 2026-02-06 \[1671⭐] - Carousel slider widget, support infinite scroll and custom child widget by [serenader](https://github.com/serenader2014).
 * [SVG](https://github.com/dnfield/flutter_svg) ⭐ 1,692 | 🐛 247 | 🌐 Dart | 📅 2024-11-01 \[1689⭐] - SVG parsing, rendering, and widget library by [Dan Field](https://github.com/dnfield).
-* [Lottie](https://github.com/xvrh/lottie-flutter) ⭐ 1,295 | 🐛 156 | 🌐 Dart | 📅 2026-08-10 \[1257⭐] - Use airbnb's popular [After Effects Animation library](https://airbnb.design/lottie/) by [xvrh](https://github.com/xvrh/lottie-flutter) ⭐ 1,295 | 🐛 156 | 🌐 Dart | 📅 2026-08-10.
-* [Image Cropper](https://github.com/hnvn/flutter_image_cropper) ⭐ 1,055 | 🐛 339 | 🌐 Dart | 📅 2026-07-30 \[1046⭐] - Crop your images support ratio, rotation, zoom by [HungHD](https://github.com/hnvn).
+* [Lottie](https://github.com/xvrh/lottie-flutter) ⭐ 1,296 | 🐛 157 | 🌐 Dart | 📅 2026-08-10 \[1257⭐] - Use airbnb's popular [After Effects Animation library](https://airbnb.design/lottie/) by [xvrh](https://github.com/xvrh/lottie-flutter) ⭐ 1,296 | 🐛 157 | 🌐 Dart | 📅 2026-08-10.
+* [Image Cropper](https://github.com/hnvn/flutter_image_cropper) ⭐ 1,054 | 🐛 339 | 🌐 Dart | 📅 2026-07-30 \[1046⭐] - Crop your images support ratio, rotation, zoom by [HungHD](https://github.com/hnvn).
 * [Parallax Image](https://github.com/pulyaevskiy/parallax-image) ⭐ 280 | 🐛 6 | 🌐 Dart | 📅 2022-08-17 \[278⭐] - Image parallax by [Anatoly Pulyaevskiy](https://github.com/pulyaevskiy).
 * [Crop](https://github.com/xclud/flutter_crop) ⭐ 259 | 🐛 14 | 🌐 Dart | 📅 2023-09-21 \[259⭐] - Crop any widget/image in Android, iOS, Web and Desktop by [Mahdi K. Fard](https://github.com/xclud/).
 * [Bitmap](https://github.com/renancaraujo/bitmap) ⭐ 178 | 🐛 5 | 🌐 Dart | 📅 2026-01-05 \[176⭐] - Perform Bitmap manipulations (such as contrast and exposure) with a help from the Dart FFI by [Renan C. Araújo](https://github.com/renancaraujo).
 
 #### Image Picker
 
-* [Image Picker](https://github.com/flutter/packages/tree/main/packages/image_picker) ⭐ 5,277 | 🐛 117 | 🌐 Dart | 📅 2026-08-13 - Images Selection by [Collin Jackson](http://www.collinjackson.com).
-* [WeChat Assets Picker](https://github.com/fluttercandies/flutter_wechat_assets_picker) ⭐ 1,651 | 🐛 8 | 🌐 Dart | 📅 2026-08-12 \[1616⭐] - Assets picker in WeChat style, support multi assets by [Alex Li](https://github.com/AlexV525).
+* [Image Picker](https://github.com/flutter/packages/tree/main/packages/image_picker) ⭐ 5,280 | 🐛 124 | 🌐 Dart | 📅 2026-08-13 - Images Selection by [Collin Jackson](http://www.collinjackson.com).
+* [WeChat Assets Picker](https://github.com/fluttercandies/flutter_wechat_assets_picker) ⭐ 1,651 | 🐛 7 | 🌐 Dart | 📅 2026-08-13 \[1616⭐] - Assets picker in WeChat style, support multi assets by [Alex Li](https://github.com/AlexV525).
 * [Advance Image Picker](https://pub.dev/packages/advance_image_picker) - Select and edit images from Android/iOS library and capture camera shots from within the same view by [WetaVN](https://github.com/weta-vn).
 
 ### Map
@@ -282,7 +282,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 * [FL Chart](https://github.com/imaNNeoFighT/fl_chart) ⭐ 7,567 | 🐛 405 | 🌐 Dart | 📅 2026-07-24 \[7313⭐] - Draw fantastic charts in Flutter by [Iman Khoshabi](http://www.ikhoshabi.com).
 * [Graphic](https://github.com/entronad/graphic) ⭐ 1,785 | 🐛 85 | 🌐 Dart | 📅 2026-02-25 \[1737⭐] - Data visualization library based on the Grammar of Graphics by [LIN Chen](https://github.com/entronad).
 * [Echarts](https://github.com/entronad/flutter_echarts) ⚠️ Archived \[765⭐] - Large collection of advanced reactives charts by [LIN Chen](https://github.com/entronad).
-* [Bezier Chart](https://github.com/aeyrium/bezier-chart) ⭐ 452 | 🐛 39 | 🌐 Dart | 📅 2023-01-17 \[451⭐] - Beautiful bezier line chart widget for flutter that is highly interactive and configurable by [Diego Velasquez](https://twitter.com/diegoveloper).
+* [Bezier Chart](https://github.com/aeyrium/bezier-chart) ⭐ 451 | 🐛 39 | 🌐 Dart | 📅 2023-01-17 \[451⭐] - Beautiful bezier line chart widget for flutter that is highly interactive and configurable by [Diego Velasquez](https://twitter.com/diegoveloper).
 * [Candlesticks](https://github.com/trentpiercy/flutter-candlesticks) ⭐ 430 | 🐛 14 | 🌐 Dart | 📅 2022-02-12 \[429⭐] - OHLC and Trade Volume Charts by [Trent Piercy](https://github.com/trentpiercy).
 * [Circular Chart](https://github.com/xqwzts/flutter_circular_chart) ⭐ 405 | 🐛 21 | 🌐 Dart | 📅 2024-06-13 \[406⭐] - Animated radial and pie charts by [Victor Choueiri](https://github.com/xqwzts).
 * [FCharts](https://github.com/thekeenant/fcharts) ⭐ 326 | 🐛 11 | 🌐 Dart | 📅 2020-06-22 \[326⭐] - Beautiful, responsive, animated charts by [Keenan Thompson](https://keenant.com).
@@ -290,19 +290,19 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### Navigation
 
-* [Get](https://github.com/jonataslaw/get) ⭐ 11,197 | 🐛 1,174 | 🌐 Dart | 📅 2026-06-12 \[11002⭐] - Navigate between screens & display snackbars/dialogs/bottomSheets without context by [Jonny Borges](https://github.com/jonataslaw).
+* [Get](https://github.com/jonataslaw/get) ⭐ 11,195 | 🐛 1,174 | 🌐 Dart | 📅 2026-06-12 \[11002⭐] - Navigate between screens & display snackbars/dialogs/bottomSheets without context by [Jonny Borges](https://github.com/jonataslaw).
 * [Fluro](https://github.com/goposse/fluro) ⭐ 3,713 | 🐛 43 | 🌐 Dart | 📅 2023-03-22 \[3710⭐] - The brightest, hippest, coolest router for Flutter with Navigation, wildcard, query, transitions by [Posse](http://goposse.com).
 * [auto\_route](https://github.com/Milad-Akarie/auto_route_library) ⭐ 1,752 | 🐛 261 | 🌐 Dart | 📅 2026-06-13 \[1708⭐] - AutoRoute is a declarative routing solution, where everything needed for navigation is automatically generated for you. [Milad\_Akarie](https://github.com/Milad-Akarie).
-* [Beamer](https://github.com/slovnicki/beamer) ⭐ 598 | 🐛 125 | 🌐 Dart | 📅 2024-10-16 \[602⭐] - Route through guarded page stacks and URLs using the Navigator 2.0 API effortlessly by [Sandro Lovnički](https://github.com/slovnicki).
+* [Beamer](https://github.com/slovnicki/beamer) ⭐ 599 | 🐛 125 | 🌐 Dart | 📅 2024-10-16 \[602⭐] - Route through guarded page stacks and URLs using the Navigator 2.0 API effortlessly by [Sandro Lovnički](https://github.com/slovnicki).
 * [go\_router](https://github.com/csells/go_router) ⚠️ Archived \[440⭐] - Declarative routes to reduce complexity, deep linking for mobile and the web while maintaining developer experience by [Chris Sells](https://github.com/csells).
 * [PageView Indicator](https://github.com/leocavalcante/page_view_indicator) ⭐ 166 | 🐛 4 | 🌐 Dart | 📅 2021-11-03 \[165⭐] - Build page indicators for the PageView by [Leo Cavalcante](https://github.com/leocavalcante).
 * [Deep Link Navigation](https://github.com/Dennis-Krasnov/Flutter-Deep-Link-Navigation) ⭐ 68 | 🐛 3 | 🌐 Dart | 📅 2020-02-11 \[67⭐] - Elegant abstraction for complete deep linking navigation in Flutter by [Dennis Krasnov](https://denniskrasnov.com).
 
 ### Auth
 
-* [Firebase Auth](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_auth) ⭐ 9,244 | 🐛 71 | 🌐 Dart | 📅 2026-08-12 - Firebase OAuth.
-* [Local Auth](https://github.com/flutter/packages/tree/main/packages/local_auth) ⭐ 5,277 | 🐛 117 | 🌐 Dart | 📅 2026-08-13 - Touch ID, lock code, fingerprint auth on iOS and Android.
-* [Google Sign-In](https://github.com/flutter/packages/tree/main/packages/google_sign_in) ⭐ 5,277 | 🐛 117 | 🌐 Dart | 📅 2026-08-13 - Google OAuth.
+* [Firebase Auth](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_auth) ⭐ 9,243 | 🐛 71 | 🌐 Dart | 📅 2026-08-13 - Firebase OAuth.
+* [Local Auth](https://github.com/flutter/packages/tree/main/packages/local_auth) ⭐ 5,280 | 🐛 124 | 🌐 Dart | 📅 2026-08-13 - Touch ID, lock code, fingerprint auth on iOS and Android.
+* [Google Sign-In](https://github.com/flutter/packages/tree/main/packages/google_sign_in) ⭐ 5,280 | 🐛 124 | 🌐 Dart | 📅 2026-08-13 - Google OAuth.
 * [Login](https://github.com/AppleEducate/flutter_login) ⭐ 709 | 🐛 13 | 🌐 Dart | 📅 2021-03-31 \[710⭐] - FaceID, TouchID, and Fingerprint Reader by [Rody Davis](http://appleeducate.com).
 * [Facebook Login](https://github.com/roughike/flutter_facebook_login) ⚠️ Archived \[405⭐] - Authenticate with native Android & iOS Facebook login SDKs by [Iiro Krankka](https://github.com/roughike).
 * [SimpleAuth](https://github.com/Clancey/simple_auth) ⭐ 354 | 🐛 63 | 🌐 Dart | 📅 2025-08-08 \[352⭐] - Azure Active Directory, Amazon, Dropbox, Facebook, Github, Google, Instagram, Linked In, Microsoft Live Connect, Github, OAuth, Basic Auth by [James Clancey](https://github.com/Clancey).
@@ -314,21 +314,21 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### Text & Rich Content
 
-* [AutoSizeText](https://github.com/leisim/auto_size_text) ⭐ 2,131 | 🐛 95 | 🌐 Dart | 📅 2023-12-07 \[2111⭐] - Automatically resizes text to fit perfectly within its bounds by [Simon Leier](https://github.com/leisim).
+* [AutoSizeText](https://github.com/leisim/auto_size_text) ⭐ 2,130 | 🐛 95 | 🌐 Dart | 📅 2023-12-07 \[2111⭐] - Automatically resizes text to fit perfectly within its bounds by [Simon Leier](https://github.com/leisim).
 * [Fleather](https://github.com/fleather-editor/fleather) ⭐ 310 | 🐛 64 | 🌐 Dart | 📅 2026-06-09 <!--stargazersfleather-editor/fleather--> - Soft & gentle rich text editor.
 * [TeX](https://github.com/shah-xad/flutter_tex) ⭐ 305 | 🐛 60 | 🌐 Dart | 📅 2026-08-05 \[295⭐] - Render Mathematics Equations with full HTML and JavaScript support by [Shahzad Akram](https://github.com/shah-xad).
-* [Masked Text](https://github.com/benhurott/flutter-masked-text) ⭐ 270 | 🐛 44 | 🌐 Dart | 📅 2022-11-06 \[275⭐] - Masked text with custom and monetary formatting by [Ben-hur Santos Ott](https://github.com/benhurott).
+* [Masked Text](https://github.com/benhurott/flutter-masked-text) ⭐ 269 | 🐛 44 | 🌐 Dart | 📅 2022-11-06 \[275⭐] - Masked text with custom and monetary formatting by [Ben-hur Santos Ott](https://github.com/benhurott).
 * [Code Field](https://github.com/BertrandBev/code_field) ⭐ 248 | 🐛 23 | 🌐 Dart | 📅 2024-07-08 - Customizable code field widget supporting syntax highlighting by [Bertrand Bevillard](https://github.com/BertrandBev).
 * [Parsed Text](https://github.com/fayeed/flutter_parsed_text) ⭐ 221 | 🐛 22 | 🌐 Dart | 📅 2026-01-09 \[222⭐] - Interactive text based on content recognition, also supports Regex by [Fayeed Pawaskar](https://github.com/fayeed/).
 
 ### Forms
 
-* [Form Builder](https://github.com/danvick/flutter_form_builder) ⭐ 1,605 | 🐛 51 | 🌐 Dart | 📅 2026-07-29 \[1581⭐] - Framework that simplifies building forms, validating fields, reacting to changes, and collecting the final user input by [Danvick Miller](https://github.com/danvick).
+* [Form Builder](https://github.com/danvick/flutter_form_builder) ⭐ 1,605 | 🐛 54 | 🌐 Dart | 📅 2026-07-29 \[1581⭐] - Framework that simplifies building forms, validating fields, reacting to changes, and collecting the final user input by [Danvick Miller](https://github.com/danvick).
 * [Reactive Forms](https://github.com/joanpablo/reactive_forms) ⭐ 503 | 🐛 109 | 🌐 Dart | 📅 2025-12-22 \[490⭐] - Model-driven approach to handling Forms inputs and validations, heavily inspired in Angular's Reactive Forms.
 
 ### Analytics
 
-* [Firebase Analytics](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_analytics) ⭐ 9,244 | 🐛 71 | 🌐 Dart | 📅 2026-08-12 - Connect to Firebase Analytics API.
+* [Firebase Analytics](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_analytics) ⭐ 9,243 | 🐛 71 | 🌐 Dart | 📅 2026-08-13 - Connect to Firebase Analytics API.
 * [Usage](https://github.com/dart-lang/usage) ⚠️ Archived \[147⭐] - Google Analytics wrapper for command-line, web, and Flutter apps.
 * [Pure Mixpanel](https://github.com/seenickcode/pure_mixpanel) ⭐ 25 | 🐛 2 | 🌐 Dart | 📅 2020-11-25 \[25⭐] - Analytics for the popular [Mixpanel.com](https://mixpanel.com) [Nick Manning](https://twitter.com/seenickcode).
 
@@ -345,12 +345,12 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### Media
 
-* [photo\_manager](https://github.com/fluttercandies/flutter_photo_manager) ⭐ 771 | 🐛 46 | 🌐 Dart | 📅 2026-08-12 \[739⭐] - Provides assets (image/video/audio) abstraction management APIs that can be easily integrated with custom UI widgets by [CaiJingLong](https://github.com/CaiJingLong) and [Alex Li](https://github.com/AlexV525).
+* [photo\_manager](https://github.com/fluttercandies/flutter_photo_manager) ⭐ 771 | 🐛 45 | 🌐 Dart | 📅 2026-08-13 \[739⭐] - Provides assets (image/video/audio) abstraction management APIs that can be easily integrated with custom UI widgets by [CaiJingLong](https://github.com/CaiJingLong) and [Alex Li](https://github.com/AlexV525).
 
 #### Audio
 
-* [Audio Players Plugin](https://github.com/luanpotter/audioplayers) ⭐ 2,141 | 🐛 229 | 🌐 Dart | 📅 2026-07-23 \[2108⭐] - Play multiple audio files simultaneously (Android/iOS) by [Luan Nico](https://github.com/luanpotter).
-* [Flutter Sound](https://github.com/dooboolab/flutter_sound) ⭐ 942 | 🐛 361 | 🌐 Dart | 📅 2025-11-27 \[925⭐] - Flutter audio recorder and player at one hand by [dooboolab](https://github.com/dooboolab).
+* [Audio Players Plugin](https://github.com/luanpotter/audioplayers) ⭐ 2,140 | 🐛 229 | 🌐 Dart | 📅 2026-07-23 \[2108⭐] - Play multiple audio files simultaneously (Android/iOS) by [Luan Nico](https://github.com/luanpotter).
+* [Flutter Sound](https://github.com/dooboolab/flutter_sound) ⭐ 941 | 🐛 361 | 🌐 Dart | 📅 2025-11-27 \[925⭐] - Flutter audio recorder and player at one hand by [dooboolab](https://github.com/dooboolab).
 * [AssetsAudioPlayer](https://github.com/florent37/Flutter-AssetsAudioPlayer) ⚠️ Archived \[770⭐]  Simultaneous playback of audio from assets/network/file and displaying notifications \[android / ios / web / macos]
 * [Flutter Audio Recorder](https://github.com/shadow-app/flutter_audio_recorder) ⚠️ Archived - Provides full controls and access to recording details such as level metering by [Wenyan Li](https://github.com/nikli2009).
 * [Audio Service](https://pub.dev/packages/audio_service) - System background audio support by [Ryan Heise](https://github.com/ryanheise). [Tutorial](https://suragch.medium.com/background-audio-in-flutter-with-audio-service-and-just-audio-3cce17b4a7d?sk=0837a1b1773e27a4f879ff3072e90305) by [Suragch](https://twitter.com/Suragch1).
@@ -370,16 +370,16 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### Storage
 
-* [Firebase Storage](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_storage) ⭐ 9,244 | 🐛 71 | 🌐 Dart | 📅 2026-08-12 - Firebase as data storage.
+* [Firebase Storage](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_storage) ⭐ 9,243 | 🐛 71 | 🌐 Dart | 📅 2026-08-13 - Firebase as data storage.
 * [Secure Storage](https://github.com/mogol/flutter_secure_storage) ⭐ 1,280 | 🐛 29 | 🌐 C++ | 📅 2026-08-12 \[1234⭐] - Keychain and Keystore storage by [German Saprykin](https://github.com/mogol).
 
 #### Preferences
 
-* [Streaming Shared Preferences](https://github.com/roughike/streaming_shared_preferences) ⭐ 249 | 🐛 7 | 🌐 Dart | 📅 2022-03-02 \[248⭐] - Reactive key-value store, shared preferences with Streams by [Iiro Krankka](https://github.com/roughike).
+* [Streaming Shared Preferences](https://github.com/roughike/streaming_shared_preferences) ⭐ 248 | 🐛 7 | 🌐 Dart | 📅 2022-03-02 \[248⭐] - Reactive key-value store, shared preferences with Streams by [Iiro Krankka](https://github.com/roughike).
 
 ### Monetization
 
-* [Firebase AdMob](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_admob) ⭐ 9,244 | 🐛 71 | 🌐 Dart | 📅 2026-08-12 - Ad integration using Firebase.
+* [Firebase AdMob](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_admob) ⭐ 9,243 | 🐛 71 | 🌐 Dart | 📅 2026-08-13 - Ad integration using Firebase.
 * [Inapp Purchase](https://github.com/dooboolab/flutter_inapp_purchase) ⚠️ Archived \[573⭐] - Features set of 'in app purchase' derived from [react-native-iap](https://github.com/dooboolab/react-native-iap) ⚠️ Archived by [dooboolab](https://github.com/dooboolab).
 * [Admob Flutter](https://github.com/kmcgill88/admob_flutter) ⭐ 434 | 🐛 114 | 🌐 Dart | 📅 2024-08-12 - Admob plugin that shows banner ads using native platform views by [Youssef Kababe](https://github.com/YoussefKababe) & [Kevin McGill](https://github.com/kmcgill88).
 * [Square In-App Payments SDK](https://github.com/square/in-app-payments-flutter-plugin) ⭐ 341 | 🐛 13 | 🌐 Objective-C | 📅 2026-07-23 \[342⭐] - Take payments by embedding a card entry form in your app that produces nonces from customer-provided card information or digital wallets by [Square](https://github.com/orgs/square).
@@ -389,10 +389,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ## Templates
 
 * [TodoMVC](https://github.com/brianegan/flutter_architecture_samples) ⭐ 8,928 | 🐛 48 | 🌐 Dart | 📅 2025-11-06 \[8859⭐] - TODO application ready to go with different flavors : Vanilla, Redux, built\_redux by [Brian Egan](https://github.com/brianegan).
-* [UI Kit](https://github.com/iampawan/Flutter-UI-Kit) ⭐ 6,292 | 🐛 14 | 🌐 Dart | 📅 2022-06-13 \[6277⭐] - Collection of useful UIs in a UIKit by [Pawan Kumar](https://github.com/iampawan).
+* [UI Kit](https://github.com/iampawan/Flutter-UI-Kit) ⭐ 6,291 | 🐛 14 | 🌐 Dart | 📅 2022-06-13 \[6277⭐] - Collection of useful UIs in a UIKit by [Pawan Kumar](https://github.com/iampawan).
 * [Flutter Samples](https://github.com/diegoveloper/flutter-samples) ⭐ 3,211 | 🐛 3 | 🌐 Dart | 📅 2025-11-02 \[3191⭐] - Collection of nice flutter samples by [Diego Velásquez](https://github.com/diegoveloper).
 * [The Gorgeous Login](https://github.com/huextrat/TheGorgeousLogin) ⭐ 1,765 | 🐛 1 | 🌐 Dart | 📅 2023-12-15 \[1770⭐] - Design and smooth login template by [Hugo Extrat](https://github.com/huextrat).
-* [FlutterFoodybite](https://github.com/JideGuru/FlutterFoodybite) ⭐ 1,714 | 🐛 7 | 🌐 Dart | 📅 2024-08-05 \[1686⭐] - Beautiful food app UI template by [JideGuru](https://github.com/JideGuru).
+* [FlutterFoodybite](https://github.com/JideGuru/FlutterFoodybite) ⭐ 1,713 | 🐛 7 | 🌐 Dart | 📅 2024-08-05 \[1686⭐] - Beautiful food app UI template by [JideGuru](https://github.com/JideGuru).
 * [UI Challenges](https://github.com/tomialagbe/flutter_ui_challenges) ⭐ 1,512 | 🐛 11 | 🌐 Dart | 📅 2019-11-14 \[1514⭐] - Profile, Travel, Food App by [Tomi Alagbe](https://github.com/tomialagbe).
 * [Clone UI Challenges](https://github.com/javico2609/flutter-challenges) ⭐ 1,507 | 🐛 1 | 🌐 Dart | 📅 2020-05-05 \[1514⭐] - Collection of useful UIs clones by [Javier González](https://github.com/javico2609).
 * [Dashboard](https://github.com/Ivaskuu/dashboard) ⭐ 946 | 🐛 5 | 🌐 Dart | 📅 2019-08-09 \[936⭐] - Dashboard and Shop Items by [Ivascu Adrian](https://github.com/Ivaskuu).
@@ -414,12 +414,12 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### Clone
 
-* [RustDesk](https://github.com/rustdesk/rustdesk) ⭐ 120,260 | 🐛 131 | 🌐 Rust | 📅 2026-08-13 \[99332⭐] - Open source virtual / remote desktop. TeamViewer alternative.  Built with Rust by [RustDesk team](https://www.rustdesk.com/).
+* [RustDesk](https://github.com/rustdesk/rustdesk) ⭐ 120,340 | 🐛 131 | 🌐 Rust | 📅 2026-08-13 \[99332⭐] - Open source virtual / remote desktop. TeamViewer alternative.  Built with Rust by [RustDesk team](https://www.rustdesk.com/).
 * [GitTouch](https://github.com/pd4d10/git-touch) ⭐ 1,693 | 🐛 89 | 🌐 Dart | 📅 2024-07-28 \[1649⭐] - Open source mobile client for GitHub, GitLab, Bitbucket and Gitea by [Rongjian Zhang](https://github.com/pd4d10).
 
 ### Machine Learning
 
-* [m2cgen](https://github.com/BayesWitnesses/m2cgen) ⭐ 2,995 | 🐛 62 | 🌐 Python | 📅 2024-08-03 \[2915⭐] - CLI tool to convert ML models into native Dart code by [BayesWitnesses](https://github.com/BayesWitnesses).
+* [m2cgen](https://github.com/BayesWitnesses/m2cgen) ⭐ 2,996 | 🐛 62 | 🌐 Python | 📅 2024-08-03 \[2915⭐] - CLI tool to convert ML models into native Dart code by [BayesWitnesses](https://github.com/BayesWitnesses).
 * [MLKit](https://github.com/azihsoyn/flutter_mlkit) ⭐ 386 | 🐛 44 | 🌐 Dart | 📅 2020-08-20 \[388⭐] - Firebase Machine Learning Kit by [Naoya Yoshizawa](https://github.com/azihsoyn).
 
 ### Vision
@@ -435,16 +435,16 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ## Plugins
 
 * [Pub packages](https://pub.dev/flutter/packages) - Packages filter in Dart Pub Repository.
-* [Plugins](https://github.com/flutter/packages/tree/main/packages) ⭐ 5,277 | 🐛 117 | 🌐 Dart | 📅 2026-08-13 - Official Flutter Team Plugins.
+* [Plugins](https://github.com/flutter/packages/tree/main/packages) ⭐ 5,280 | 🐛 124 | 🌐 Dart | 📅 2026-08-13 - Official Flutter Team Plugins.
 
 ### Device
 
-* [InAppWebView](https://github.com/pichillilorenzo/flutter_inappwebview) ⭐ 3,753 | 🐛 218 | 🌐 Dart | 📅 2026-02-10 \[3611⭐] - Add inline WebView widgets or open an in-app browser window by [Lorenzo Pichilli](https://github.com/pichillilorenzo).
-* [Local Notifications](https://github.com/MaikuB/flutter_local_notifications) ⭐ 2,660 | 🐛 123 | 🌐 Dart | 📅 2026-08-08 \[2624⭐] - Plugin for displaying local notifications by [Michael Bui](https://github.com/MaikuB).
-* [Permission Handler](https://github.com/baseflow/flutter-permission-handler) ⭐ 2,171 | 🐛 153 | 🌐 Dart | 📅 2026-08-11 \[2144⭐] - A Flutter permission plugin which provides a cross-platform (iOS, Android) API to request and check permissions by [Baseflow](https://baseflow.com).
-* [File Picker](https://github.com/miguelpruivo/plugins_flutter_file_picker) ⭐ 1,555 | 🐛 34 | 🌐 Dart | 📅 2026-08-12 \[1494⭐] - Native file explorer to load absolute file path by [Miguel Ruivo](https://github.com/miguelpruivo).
+* [InAppWebView](https://github.com/pichillilorenzo/flutter_inappwebview) ⭐ 3,752 | 🐛 217 | 🌐 Dart | 📅 2026-02-10 \[3611⭐] - Add inline WebView widgets or open an in-app browser window by [Lorenzo Pichilli](https://github.com/pichillilorenzo).
+* [Local Notifications](https://github.com/MaikuB/flutter_local_notifications) ⭐ 2,659 | 🐛 123 | 🌐 Dart | 📅 2026-08-08 \[2624⭐] - Plugin for displaying local notifications by [Michael Bui](https://github.com/MaikuB).
+* [Permission Handler](https://github.com/baseflow/flutter-permission-handler) ⭐ 2,170 | 🐛 153 | 🌐 Dart | 📅 2026-08-11 \[2144⭐] - A Flutter permission plugin which provides a cross-platform (iOS, Android) API to request and check permissions by [Baseflow](https://baseflow.com).
+* [File Picker](https://github.com/miguelpruivo/plugins_flutter_file_picker) ⭐ 1,556 | 🐛 34 | 🌐 Dart | 📅 2026-08-13 \[1494⭐] - Native file explorer to load absolute file path by [Miguel Ruivo](https://github.com/miguelpruivo).
 * [WebView](https://github.com/dart-flitter/flutter_webview_plugin) ⭐ 1,492 | 🐛 552 | 🌐 Java | 📅 2024-03-19 \[1491⭐] - Render web content by [Hadrien Lejard](https://twitter.com/HadrienLejard).
-* [Geolocator](https://github.com/baseflow/flutter-geolocator) ⭐ 1,333 | 🐛 158 | 🌐 Dart | 📅 2026-06-12 \[1311⭐] - A Flutter geolocation plugin which provides easy access to the platform specific location services by [Baseflow](https://baseflow.com).
+* [Geolocator](https://github.com/baseflow/flutter-geolocator) ⭐ 1,332 | 🐛 158 | 🌐 Dart | 📅 2026-06-12 \[1311⭐] - A Flutter geolocation plugin which provides easy access to the platform specific location services by [Baseflow](https://baseflow.com).
 * [Location](https://github.com/Lyokone/flutterlocation) ⭐ 1,157 | 🐛 4 | 🌐 Dart | 📅 2026-08-07 \[1144⭐] - Handle location, handling callbacks to get continuous location by [Lyokone](https://github.com/Lyokone).
 * [VPN](https://github.com/X-dea/Flutter_VPN) ⭐ 375 | 🐛 51 | 🌐 Java | 📅 2025-06-01 \[371⭐] - Access VPN services by [Jason C.H](https://github.com/ctrysbita).
 * [Badger](https://github.com/g123k/flutter_app_badger) ⚠️ Archived \[309⭐] - Update app badge on the launcher by [Edouard Marquez](https://twitter.com/g123k).
@@ -476,7 +476,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 * [Drift](https://github.com/simolus3/drift) ⭐ 3,260 | 🐛 210 | 🌐 Dart | 📅 2026-08-12 - Drift is an easy to use, reactive, typesafe persistence library for Dart & Flutter by [.
   Simon Binder](https://github.com/simolus3)
 * [Sqflite](https://github.com/tekartik/sqflite) ⭐ 3,018 | 🐛 6 | 🌐 Dart | 📅 2026-08-01 \[2972⭐] - SQLite flutter plugin by [Alexandre Roux](https://www.linkedin.com/in/alextekartik/).
-* [ObjectBox](https://github.com/objectbox/objectbox-dart) ⭐ 1,233 | 🐛 72 | 🌐 Dart | 📅 2026-08-11 - On-device database for fast cross-platform Dart object persistence by [ObjectBox](https://github.com/objectbox).
+* [ObjectBox](https://github.com/objectbox/objectbox-dart) ⭐ 1,234 | 🐛 72 | 🌐 Dart | 📅 2026-08-11 - On-device database for fast cross-platform Dart object persistence by [ObjectBox](https://github.com/objectbox).
 
 ### Services
 
@@ -492,17 +492,17 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 #### Standard
 
-* [Bloc](https://github.com/felangel/bloc) ⭐ 12,483 | 🐛 77 | 🌐 Dart | 📅 2026-08-10 \[12288⭐] - Collection of packages that help implement the BLoC design pattern by [Felix Angelov](https://github.com/felangel).
-* [GetX](https://github.com/jonataslaw/getx) ⭐ 11,197 | 🐛 1,174 | 🌐 Dart | 📅 2026-06-12 \[11002⭐] - Contextless, State-management & navigation by [Jonny Borges](https://github.com/jonataslaw).
-* [RiverPod](https://github.com/rrousselGit/river_pod) ⭐ 7,365 | 🐛 152 | 🌐 Dart | 📅 2026-08-09 \[6922⭐] - Provider, but different by [Remi Rousselet](https://github.com/rrousselGit).
+* [Bloc](https://github.com/felangel/bloc) ⭐ 12,481 | 🐛 80 | 🌐 Dart | 📅 2026-08-10 \[12288⭐] - Collection of packages that help implement the BLoC design pattern by [Felix Angelov](https://github.com/felangel).
+* [GetX](https://github.com/jonataslaw/getx) ⭐ 11,195 | 🐛 1,174 | 🌐 Dart | 📅 2026-06-12 \[11002⭐] - Contextless, State-management & navigation by [Jonny Borges](https://github.com/jonataslaw).
+* [RiverPod](https://github.com/rrousselGit/river_pod) ⭐ 7,366 | 🐛 153 | 🌐 Dart | 📅 2026-08-09 \[6922⭐] - Provider, but different by [Remi Rousselet](https://github.com/rrousselGit).
 * [Provider](https://github.com/rrousselGit/provider) ⭐ 5,256 | 🐛 38 | 🌐 Dart | 📅 2026-03-10 \[5230⭐] - State-management library for Flutter by [Remi Rousselet](https://github.com/rrousselGit).
 * [MobX](https://github.com/mobxjs/mobx.dart) ⭐ 2,466 | 🐛 76 | 🌐 Dart | 📅 2026-07-31 \[2451⭐] - Supercharge the state-management in your apps with Transparent Functional Reactive Programming (TFRP). Port of MobX from the Js/React land.
-* [Get It](https://github.com/fluttercommunity/get_it) ⭐ 1,474 | 🐛 11 | 🌐 JavaScript | 📅 2026-02-20 \[1426⭐] - Simple direct Service Locator that allows to decouple the interface from a concrete implementation by [Thomas Burkhartb](https://twitter.com/Thomasburkhartb).
+* [Get It](https://github.com/fluttercommunity/get_it) ⭐ 1,472 | 🐛 12 | 🌐 JavaScript | 📅 2026-02-20 \[1426⭐] - Simple direct Service Locator that allows to decouple the interface from a concrete implementation by [Thomas Burkhartb](https://twitter.com/Thomasburkhartb).
 * [Signals](https://github.com/rodydavis/signals.dart) ⭐ 806 | 🐛 26 | 🌐 Dart | 📅 2026-08-10 \[658⭐] - Reactive programming made simple. Port of Signals pattern by [Rody Davis](https://github.com/rodydavis).
 
 #### Redux / ELM / Dependency Injection
 
-* [Fish](https://github.com/alibaba/fish-redux) ⭐ 7,273 | 🐛 164 | 🌐 Dart | 📅 2022-02-17 \[7313⭐] - Alibaba Redux implementation.
+* [Fish](https://github.com/alibaba/fish-redux) ⭐ 7,272 | 🐛 164 | 🌐 Dart | 📅 2022-02-17 \[7313⭐] - Alibaba Redux implementation.
 * [Redux](https://github.com/brianegan/flutter_redux) ⭐ 1,645 | 🐛 18 | 🌐 Dart | 📅 2023-04-06 \[1653⭐] - Built to work with [redux.dart](https://github.com/johnpryan/redux.dart) ⭐ 519 | 🐛 10 | 🌐 Dart | 📅 2023-03-09, utilities that allow you to easily consume a Redux Store to build Widgets.
 * [Inject](https://github.com/google/inject.dart) ⚠️ Archived \[867⭐] - Compile-time dependency injection by Google.
 * [Redux.dart](https://github.com/johnpryan/redux.dart) ⭐ 519 | 🐛 10 | 🌐 Dart | 📅 2023-03-09 \[521⭐] - Port of Redux to Dart with an ecosystem of middleware, Flutter integrations, and time traveling dev tools by [John Ryan](https://github.com/johnpryan) and [Brian Egan](https://gitlab.com/users/brianegan/projects).
@@ -512,7 +512,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### Widgets
 
-* [Hooks](https://github.com/rrousselGit/flutter_hooks) ⭐ 3,332 | 🐛 31 | 🌐 Dart | 📅 2026-05-27 \[3280⭐] - Advanced code sharing between widgets by [Remi Rousselet](https://github.com/rrousselGit).
+* [Hooks](https://github.com/rrousselGit/flutter_hooks) ⭐ 3,332 | 🐛 32 | 🌐 Dart | 📅 2026-05-27 \[3280⭐] - Advanced code sharing between widgets by [Remi Rousselet](https://github.com/rrousselGit).
 * [Functional widget](https://github.com/rrousselGit/functional_widget) ⚠️ Archived \[608⭐] - Code generator writing widgets as functions with annotations by [Remi Rousselet](https://github.com/rrousselGit).
 
 ### Data
@@ -523,21 +523,21 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### Backend
 
-* [Serverpod](https://github.com/serverpod/serverpod) ⭐ 3,239 | 🐛 509 | 🌐 Dart | 📅 2026-08-10 - Write your server-side code and API in Dart.
-* [Nitric](https://github.com/nitrictech/nitric) ⭐ 2,009 | 🐛 45 | 🌐 Go | 📅 2026-02-04 \[1842⭐] - Open source framework with pluggable deployment by [Nitric](https://nitric.io/)..
-* [Dynamic Widget](https://github.com/dengyin2000/dynamic_widget) ⭐ 1,653 | 🐛 51 | 🌐 Dart | 📅 2025-06-25 \[1630⭐] - Build your dynamic UI with json, and the json format is very similar with flutter widget code by [Denny Deng](https://github.com/dengyin2000).
+* [Serverpod](https://github.com/serverpod/serverpod) ⭐ 3,241 | 🐛 505 | 🌐 Dart | 📅 2026-08-13 - Write your server-side code and API in Dart.
+* [Nitric](https://github.com/nitrictech/nitric) ⭐ 2,010 | 🐛 45 | 🌐 Go | 📅 2026-02-04 \[1842⭐] - Open source framework with pluggable deployment by [Nitric](https://nitric.io/)..
+* [Dynamic Widget](https://github.com/dengyin2000/dynamic_widget) ⭐ 1,652 | 🐛 51 | 🌐 Dart | 📅 2025-06-25 \[1630⭐] - Build your dynamic UI with json, and the json format is very similar with flutter widget code by [Denny Deng](https://github.com/dengyin2000).
 * [Parse for Flutter](https://github.com/parse-community/Parse-SDK-Flutter/tree/master/packages/flutter) ⭐ 587 | 🐛 48 | 🌐 Dart | 📅 2026-08-12 \[583⭐] Open source backend framework by [ParsePlatform](https://parseplatform.org/).
 
 ### Animation
 
-* [SpinKit](https://github.com/jogboms/flutter_spinkit) ⭐ 3,144 | 🐛 16 | 🌐 Dart | 📅 2026-06-22 \[3114⭐] - Animated loading indicators by [Jeremiah Ogbomo](https://twitter.com/jogboms).
-* [AnimatedTextKit](https://github.com/aagarwal1012/Animated-Text-Kit) ⭐ 1,773 | 🐛 83 | 🌐 Dart | 📅 2025-10-04 \[1735⭐] - A collection of cool text animations by [Ayush Agarwal](https://github.com/aagarwal1012/).
-* [Staggered Animations](https://github.com/mobiten/flutter_staggered_animations) ⭐ 1,674 | 🐛 11 | 🌐 Dart | 📅 2023-03-22 \[1644⭐] - Easily add staggered animations to your ListView, GridView, Column and Row by [mobiten](https://mobiten.com/).
-* [Simple Animations](https://github.com/felixblaschke/simple_animations) ⭐ 1,058 | 🐛 0 | 🌐 Dart | 📅 2026-05-23 - Create awesome custom animations easily by [Felix Blaschke](https://github.com/felixblaschke).
+* [SpinKit](https://github.com/jogboms/flutter_spinkit) ⭐ 3,143 | 🐛 16 | 🌐 Dart | 📅 2026-06-22 \[3114⭐] - Animated loading indicators by [Jeremiah Ogbomo](https://twitter.com/jogboms).
+* [AnimatedTextKit](https://github.com/aagarwal1012/Animated-Text-Kit) ⭐ 1,772 | 🐛 83 | 🌐 Dart | 📅 2025-10-04 \[1735⭐] - A collection of cool text animations by [Ayush Agarwal](https://github.com/aagarwal1012/).
+* [Staggered Animations](https://github.com/mobiten/flutter_staggered_animations) ⭐ 1,673 | 🐛 11 | 🌐 Dart | 📅 2023-03-22 \[1644⭐] - Easily add staggered animations to your ListView, GridView, Column and Row by [mobiten](https://mobiten.com/).
+* [Simple Animations](https://github.com/felixblaschke/simple_animations) ⭐ 1,057 | 🐛 0 | 🌐 Dart | 📅 2026-05-23 - Create awesome custom animations easily by [Felix Blaschke](https://github.com/felixblaschke).
 * [Funvas](https://github.com/creativecreatorormaybenot/funvas) ⭐ 557 | 🐛 1 | 🌐 Dart | 📅 2026-03-14 \[544⭐] - Create fun *time based canvas animations* by [creativecreatorormaybenot](https://twitter.com/creativemaybeno).
-* [Drawing Animation](https://github.com/biocarl/drawing_animation) ⭐ 512 | 🐛 13 | 🌐 C++ | 📅 2025-08-22 \[505⭐] - Create drawing line animations based on SVG path data by [Carl Hauck](https://twitter.com/cahaucks).
+* [Drawing Animation](https://github.com/biocarl/drawing_animation) ⭐ 511 | 🐛 13 | 🌐 C++ | 📅 2025-08-22 \[505⭐] - Create drawing line animations based on SVG path data by [Carl Hauck](https://twitter.com/cahaucks).
 * [Villains](https://github.com/Norbert515/flutter_villains) ⭐ 367 | 🐛 6 | 🌐 Dart | 📅 2022-08-26 \[366⭐] - Page transition animations by [Norbert Kozsir](https://twitter.com/norbertkozsir).
-* [Flutter-animation-set](https://github.com/efoxTeam/flutter-animation-set) ⭐ 285 | 🐛 5 | 🌐 Dart | 📅 2021-05-15 \[283⭐] - Easy to build an animation set by [efoxTeam](https://github.com/efoxTeam).
+* [Flutter-animation-set](https://github.com/efoxTeam/flutter-animation-set) ⭐ 283 | 🐛 5 | 🌐 Dart | 📅 2021-05-15 \[283⭐] - Easy to build an animation set by [efoxTeam](https://github.com/efoxTeam).
 * [Heroine](https://pub.dev/packages/heroine) \[?⭐] - The queen of hero transitions by \[whynotmake.it].
 * [Motor](https://pub.dev/packages/motor) \[?⭐] - Unified motion system for Flutter - physics-based springs and duration-based curves by \[whynotmake.it]
 * [Animate Do](https://pub.dev/packages/animate_do) - Animation package inspired in Animate.css by [Fernando Herrera](https://twitter.com/Fernando_Her85).
@@ -545,7 +545,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### Testing
 
-* [Patrol](https://github.com/leancodepl/patrol) ⭐ 1,404 | 🐛 198 | 🌐 Dart | 📅 2026-08-12 \[1131⭐] - Easy-to-learn, powerful UI testing framework eliminating limitations of `flutter_test`, `integration_test`, and `flutter_driver` by [LeanCode](https://leancode.co).
+* [Patrol](https://github.com/leancodepl/patrol) ⭐ 1,404 | 🐛 194 | 🌐 Dart | 📅 2026-08-13 \[1131⭐] - Easy-to-learn, powerful UI testing framework eliminating limitations of `flutter_test`, `integration_test`, and `flutter_driver` by [LeanCode](https://leancode.co).
 * [flutter\_convenient\_test](https://github.com/fzyzcjy/flutter_convenient_test) ⭐ 586 | 🐛 1 | 🌐 Dart | 📅 2026-07-11 \[556⭐] - Tests with action history, time travelling, screenshots, rapid re-execution, video recordings, interactive mode by [fzyzcjy](https://github.com/fzyzcjy).
 
 ### Web
@@ -566,13 +566,13 @@ This section contains libraries that take an experimental or unorthodox approach
 
 ### Game
 
-* [Flame](https://github.com/flame-engine/flame) ⭐ 10,717 | 🐛 92 | 🌐 Dart | 📅 2026-08-12 \[10193⭐] - Minimalist game engine by [Luan Nico](https://github.com/luanpotter).
+* [Flame](https://github.com/flame-engine/flame) ⭐ 10,722 | 🐛 92 | 🌐 Dart | 📅 2026-08-12 \[10193⭐] - Minimalist game engine by [Luan Nico](https://github.com/luanpotter).
 * [Bonfire](https://github.com/RafaelBarbosatec/bonfire) ⭐ 1,462 | 🐛 7 | 🌐 Dart | 📅 2026-08-09 \[1384⭐] - Flame engine based game engine for 2D RPG games.
 * [Zerker](https://github.com/flutterkit/zerker) ⭐ 701 | 🐛 3 | 🌐 Dart | 📅 2025-09-02 \[704⭐] - Lightweight and powerful graphic animation library by [drawcall](https://github.com/drawcall).
 
 #### Open source games
 
-* [Tetris](https://github.com/boyan01/flutter-tetris) ⭐ 1,672 | 🐛 0 | 🌐 Dart | 📅 2025-10-04 \[1648⭐] - Tetris game by [YangBin](https://github.com/boyan01).
+* [Tetris](https://github.com/boyan01/flutter-tetris) ⭐ 1,671 | 🐛 0 | 🌐 Dart | 📅 2025-10-04 \[1648⭐] - Tetris game by [YangBin](https://github.com/boyan01).
 * [Crush](https://github.com/boeledi/flutter_crush) ⭐ 614 | 🐛 1 | 🌐 Dart | 📅 2024-04-02 \[609⭐] - How to build a Math-3 game, like Candy Crush, Bejeweled by [Didier Boelens](https://didierboelens.com).
 * [2048](https://github.com/anuranBarman/2048) ⭐ 376 | 🐛 6 | 🌐 Dart | 📅 2021-10-11 \[361⭐] - 2048 game by [Anuran Barman](https://github.com/anuranBarman).
 * [Flip](https://github.com/RedBrogdon/flutterflip) ⭐ 269 | 🐛 0 | 🌐 Dart | 📅 2026-06-28 \[268⭐] - Reversi game by [Andrew Brogdon](https://github.com/RedBrogdon).
@@ -590,38 +590,38 @@ This section contains libraries that take an experimental or unorthodox approach
 
 ### Premium
 
-* [RustDesk](https://github.com/rustdesk/rustdesk) ⭐ 120,260 | 🐛 131 | 🌐 Rust | 📅 2026-08-13 \[99332⭐] - Open source virtual/remote desktop and TeamViewer alternative. Built with Flutter and Rust by [RustDesk team](https://www.rustdesk.com/).
-* [AppFlowy](https://github.com/AppFlowy-IO/appflowy) ⭐ 75,290 | 🐛 985 | 🌐 Dart | 📅 2026-08-11 \[65821⭐] - Open Source Notion Alternative. You are in charge of your data and customizations. Built with Flutter and Rust by [AppFlowy team](https://www.appflowy.io/).
-* [Spotube](https://github.com/KRTirtho/spotube) ⭐ 48,325 | 🐛 844 | 🌐 Dart | 📅 2026-07-30 - Open source Spotify client for desktop and mobile by [Kingkor Roy Tirtho](https://github.com/KRTirtho).
-* [History Of Everything](https://github.com/2d-inc/HistoryOfEverything) ⭐ 6,582 | 🐛 56 | 🌐 Dart | 📅 2021-09-22 \[6568⭐] - Animated vertical timeline of humanity by [2D, Inc](https://www.2dimensions.com/).
-* [Developer Quest](https://github.com/2d-inc/developer_quest) ⭐ 2,970 | 🐛 35 | 🌐 Dart | 📅 2021-05-05  \[2982⭐] - Become a tech lead, slay bugs by [2D, Inc](https://www.2dimensions.com/).
+* [RustDesk](https://github.com/rustdesk/rustdesk) ⭐ 120,340 | 🐛 131 | 🌐 Rust | 📅 2026-08-13 \[99332⭐] - Open source virtual/remote desktop and TeamViewer alternative. Built with Flutter and Rust by [RustDesk team](https://www.rustdesk.com/).
+* [AppFlowy](https://github.com/AppFlowy-IO/appflowy) ⭐ 75,336 | 🐛 987 | 🌐 Dart | 📅 2026-08-11 \[65821⭐] - Open Source Notion Alternative. You are in charge of your data and customizations. Built with Flutter and Rust by [AppFlowy team](https://www.appflowy.io/).
+* [Spotube](https://github.com/KRTirtho/spotube) ⭐ 48,332 | 🐛 845 | 🌐 Dart | 📅 2026-08-13 - Open source Spotify client for desktop and mobile by [Kingkor Roy Tirtho](https://github.com/KRTirtho).
+* [History Of Everything](https://github.com/2d-inc/HistoryOfEverything) ⭐ 6,583 | 🐛 56 | 🌐 Dart | 📅 2021-09-22 \[6568⭐] - Animated vertical timeline of humanity by [2D, Inc](https://www.2dimensions.com/).
+* [Developer Quest](https://github.com/2d-inc/developer_quest) ⭐ 2,969 | 🐛 35 | 🌐 Dart | 📅 2021-05-05  \[2982⭐] - Become a tech lead, slay bugs by [2D, Inc](https://www.2dimensions.com/).
 
 ### Top
 
-* [Spotube](https://github.com/KRTirtho/spotube) ⭐ 48,325 | 🐛 844 | 🌐 Dart | 📅 2026-07-30 \[41650⭐] - A lightweight free Spotify crossplatform-client with no Spotify premium account requirement by [KRTirtho](https://github.com/KRTirtho).
-* [Flutter Common Widgets](https://github.com/alibaba/flutter-common-widgets-app) ⭐ 23,655 | 🐛 193 | 🌐 Dart | 📅 2023-12-11 \[23710⭐] - Collection of official widgets demos & docs in chinese to help developers learn quickly by [Alibaba Auction Frontend Team](https://github.com/alibaba-paimai-frontend).
-* [Flutter Team Samples](https://github.com/flutter/samples) ⭐ 19,230 | 🐛 16 | 🌐 Dart | 📅 2026-08-12 \[18613⭐] - Collection of examples (including maps, json, Material and Cupertino) by the [Flutter team](https://github.com/orgs/flutter/people).
+* [Spotube](https://github.com/KRTirtho/spotube) ⭐ 48,332 | 🐛 845 | 🌐 Dart | 📅 2026-08-13 \[41650⭐] - A lightweight free Spotify crossplatform-client with no Spotify premium account requirement by [KRTirtho](https://github.com/KRTirtho).
+* [Flutter Common Widgets](https://github.com/alibaba/flutter-common-widgets-app) ⭐ 23,654 | 🐛 193 | 🌐 Dart | 📅 2023-12-11 \[23710⭐] - Collection of official widgets demos & docs in chinese to help developers learn quickly by [Alibaba Auction Frontend Team](https://github.com/alibaba-paimai-frontend).
+* [Flutter Team Samples](https://github.com/flutter/samples) ⭐ 19,233 | 🐛 17 | 🌐 Dart | 📅 2026-08-12 \[18613⭐] - Collection of examples (including maps, json, Material and Cupertino) by the [Flutter team](https://github.com/orgs/flutter/people).
 * [Fwitter](https://github.com/TheAlphamerc/flutter_twitter_clone) ⭐ 4,234 | 🐛 36 | 🌐 Dart | 📅 2024-07-31 \[4157⭐] - Full Twitter clone using Firebase solution by [Sonu Sharma](https://github.com/TheAlphamerc).
 * [GitJournal](https://github.com/GitJournal/GitJournal) ⭐ 4,203 | 🐛 132 | 🌐 Dart | 📅 2026-05-26 \[3893⭐] - Journaling your data in a Git Repo by [Vishesh Handa](https://github.com/vHanda).
-* [AuthPass](https://github.com/authpass/authpass) ⭐ 2,763 | 🐛 166 | 🌐 Dart | 📅 2026-08-11 \[2471⭐] - Keepass compatible password manager for mobile and desktop by [hpoul](https://github.com/hpoul).
+* [AuthPass](https://github.com/authpass/authpass) ⭐ 2,763 | 🐛 166 | 🌐 Dart | 📅 2026-08-13 \[2471⭐] - Keepass compatible password manager for mobile and desktop by [hpoul](https://github.com/hpoul).
 * [Pokedex](https://github.com/scitbiz/flutter_pokedex) ⭐ 2,534 | 🐛 0 | 🌐 Dart | 📅 2026-04-03 - Pokedex app with beautiful UI and smooth animation by [Hung Pham](https://github.com/scitbiz).
 * [FlutterGram](https://github.com/mdanics/fluttergram) ⭐ 2,388 | 🐛 9 | 🌐 Dart | 📅 2024-08-07 \[2393⭐] - Complete Instagram based on Firestore & Google Functions by [MDanics](https://github.com/mdanics).
-* [BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes) ⭐ 2,187 | 🐛 182 | 🌐 Dart | 📅 2026-07-30 \[1304⭐] - Multi-Source Music Streaming Application by [HemantKArya](https://github.com/HemantKArya).
+* [BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes) ⭐ 2,188 | 🐛 182 | 🌐 Dart | 📅 2026-07-30 \[1304⭐] - Multi-Source Music Streaming Application by [HemantKArya](https://github.com/HemantKArya).
 * [Timy Messenger](https://github.com/janoodleFTW/timy-messenger) ⭐ 2,105 | 🐛 21 | 🌐 Dart | 📅 2023-01-09 \[2107⭐] - Group messaging app with a focus on organizing events by [Miguel Beltran](https://github.com/miquelbeltran) and [Franz Heinfling](https://github.com/fheinfling).
 * [Harpy](https://github.com/robertodoering/harpy) ⭐ 2,075 | 🐛 3 | 🌐 Dart | 📅 2024-08-01 \[2084⭐] - Feature rich Twitter client by [Roberto Doering](https://github.com/robertodoering).
-* [Linwood Butterfly](https://github.com/LinwoodCloud/Butterfly) ⭐ 1,953 | 🐛 51 | 🌐 Dart | 📅 2026-08-12 \[1463⭐] - Powerful note taking app and an alternative to OneNote by [CodeDoctorDE](https://github.com/CodeDoctorDE).
+* [Linwood Butterfly](https://github.com/LinwoodCloud/Butterfly) ⭐ 1,954 | 🐛 51 | 🌐 Dart | 📅 2026-08-13 \[1463⭐] - Powerful note taking app and an alternative to OneNote by [CodeDoctorDE](https://github.com/CodeDoctorDE).
 * [Music Player](https://github.com/iampawan/Flutter-Music-Player) ⭐ 1,785 | 🐛 32 | 🌐 Dart | 📅 2024-01-15 \[1761⭐] - Full featured music player by [Pawan Kumar](https://about.me/imthepk).
 * [Openreads](https://github.com/mateusz-bak/openreads-android) ⭐ 1,603 | 🐛 46 | 🌐 Dart | 📅 2026-07-20 \[1303⭐] - A simple privacy oriented mobile books tracker using Open Library API by [mateusz-bak](https://github.com/mateusz-bak).
-* [WhatTodo](https://github.com/burhanrashid52/WhatTodo) ⭐ 1,266 | 🐛 13 | 🌐 Dart | 📅 2026-02-12 \[1250⭐] - Todoist like UI by [Burhanuddin Rashid](https://about.me/burhanrashid52).
-* [Trace](https://github.com/trentpiercy/trace) ⭐ 1,146 | 🐛 17 | 🌐 Dart | 📅 2023-03-07 \[1137⭐] - Modern and powerful crypto portfolio & market explorer by [Trent Piercy](https://github.com/trentpiercy).
+* [WhatTodo](https://github.com/burhanrashid52/WhatTodo) ⭐ 1,265 | 🐛 13 | 🌐 Dart | 📅 2026-02-12 \[1250⭐] - Todoist like UI by [Burhanuddin Rashid](https://about.me/burhanrashid52).
+* [Trace](https://github.com/trentpiercy/trace) ⭐ 1,145 | 🐛 17 | 🌐 Dart | 📅 2023-03-07 \[1137⭐] - Modern and powerful crypto portfolio & market explorer by [Trent Piercy](https://github.com/trentpiercy).
 * [Taskist](https://github.com/huextrat/Taskist) ⭐ 1,059 | 🐛 9 | 🌐 Dart | 📅 2023-12-15 \[1051⭐] - Taskist is a ToDo List app for Task Management by [Hugo EXTRAT](https://github.com/huextrat).
-* [Spacex-Go](https://github.com/jesusrp98/spacex-go) ⭐ 923 | 🐛 8 | 🌐 Dart | 📅 2024-03-28 \[913⭐] - Simple yet powerful, open-source SpaceX launch tracker. [jesusrp98](https://twitter.com/jesusrp98).
+* [Spacex-Go](https://github.com/jesusrp98/spacex-go) ⭐ 922 | 🐛 8 | 🌐 Dart | 📅 2024-03-28 \[913⭐] - Simple yet powerful, open-source SpaceX launch tracker. [jesusrp98](https://twitter.com/jesusrp98).
 * [Cinematic](https://github.com/aaronoe/FlutterCinematic) ⭐ 902 | 🐛 23 | 🌐 Dart | 📅 2020-10-01 \[900⭐] - UI for Movie DB Public API by [Aaron Oertel](https://github.com/aaronoe).
 * [Chillify](https://github.com/KarimElghamry/chillify) ⭐ 757 | 🐛 9 | 🌐 Dart | 📅 2022-03-31 - Fancy music app made with Provider and Bloc pattern by [Karim Elghamry](https://github.com/KarimElghamry).
 * [Planets](https://github.com/sergiandreplace/flutter_planets_tutorial) ⭐ 753 | 🐛 4 | 🌐 Dart | 📅 2022-02-01 \[756⭐] - Planet exploration that demonstrate rich UI by [Sergi Martínez](http://sergiandreplace.com).
 * [Trinity Orientation @ Univ Toronto](https://github.com/matthewtory/trinity-orientation-2018) ⚠️ Archived \[618⭐] - Orientation week at Trinity College, U of T by [Matthew Tory](https://github.com/matthewtory).
 * [NewsBuzz](https://github.com/theankurkedia/NewsBuzz) ⭐ 598 | 🐛 6 | 🌐 Dart | 📅 2018-10-27 \[599⭐] - Firebase backed news reader using News API by [Ankur Kedia](https://github.com/theankurkedia).
-* [Reply](https://github.com/flschweiger/reply) ⭐ 555 | 🐛 5 | 🌐 Dart | 📅 2021-08-02 \[558⭐] - 'Reply' Material Design case study by [Frederik Schweiger](https://github.com/flschweiger).
+* [Reply](https://github.com/flschweiger/reply) ⭐ 554 | 🐛 5 | 🌐 Dart | 📅 2021-08-02 \[558⭐] - 'Reply' Material Design case study by [Frederik Schweiger](https://github.com/flschweiger).
 * [BookSearch](https://github.com/Norbert515/BookSearch) ⭐ 549 | 🐛 2 | 🌐 Dart | 📅 2018-12-31 \[548⭐] - Digital BookShelf for your reading progress by [Norbert515](https://github.com/Norbert515).
 * [Meme Chat](https://github.com/efortuna/memechat) ⭐ 545 | 🐛 11 | 🌐 Dart | 📅 2021-02-08 \[543⭐] - Chat app on Flutter, using Firebase, Google Sign In, and device camera integration by a team of Googlers.
 * [DroidKaigi2018-flutter](https://github.com/konifar/droidkaigi2018-flutter) ⭐ 502 | 🐛 11 | 🌐 Dart | 📅 2018-05-01 \[508⭐] - Unofficial conference app for DroidKaigi 2018 Tokyo by [konifar](https://github.com/konifar).
@@ -639,12 +639,12 @@ This section contains libraries that take an experimental or unorthodox approach
 
 ## Utilities
 
-* [FVM](https://github.com/leoafarias/fvm) ⭐ 5,499 | 🐛 55 | 🌐 Dart | 📅 2026-08-12 \[5191⭐] - Flutter Version Management: A simple cli to manage Flutter SDK versions.
-* [Very Good Cli](https://github.com/VeryGoodOpenSource/very_good_cli) ⭐ 2,406 | 🐛 13 | 🌐 Dart | 📅 2026-08-12 \[2304⭐] - Very Good Command Line Interface for Dart created by  [Very Good Ventures](https://github.com/VeryGoodOpenSource).
+* [FVM](https://github.com/leoafarias/fvm) ⭐ 5,499 | 🐛 56 | 🌐 Dart | 📅 2026-08-12 \[5191⭐] - Flutter Version Management: A simple cli to manage Flutter SDK versions.
+* [Very Good Cli](https://github.com/VeryGoodOpenSource/very_good_cli) ⭐ 2,406 | 🐛 16 | 🌐 Dart | 📅 2026-08-13 \[2304⭐] - Very Good Command Line Interface for Dart created by  [Very Good Ventures](https://github.com/VeryGoodOpenSource).
 * [Launcher Icons](https://github.com/franzsilva/flutter_launcher_icons) ⭐ 2,120 | 🐛 141 | 🌐 Dart | 📅 2025-06-10 - Generate your launcher icons easily by [Mark O'Sullivan](https://github.com/MarkOSullivan94) and [Franz Silva](https://github.com/franzsilva).
 * [Flutter Sidekick](https://github.com/leoafarias/sidekick) ⭐ 1,688 | 🐛 35 | 🌐 Dart | 📅 2026-06-11  \[1673⭐] - Simple app to make Flutter development more delightful by [Leo Farias](https://github.com/leoafarias).
 * [FlutterGen](https://github.com/FlutterGen/flutter_gen) ⭐ 1,579 | 🐛 31 | 🌐 Dart | 📅 2026-08-12 \[1564⭐] - Assets code generator for your images, fonts, colors, etc — Get rid of String-based APIs.
-* [Melos](https://github.com/invertase/melos) ⭐ 1,478 | 🐛 29 | 🌐 Dart | 📅 2026-07-21 \[1382⭐] - Manage projects with multiple packages, automated versioning, changelogs & publishing via Conventional Commits by [Invertase](https://github.com/invertase).
+* [Melos](https://github.com/invertase/melos) ⭐ 1,479 | 🐛 31 | 🌐 Dart | 📅 2026-08-13 \[1382⭐] - Manage projects with multiple packages, automated versioning, changelogs & publishing via Conventional Commits by [Invertase](https://github.com/invertase).
 * [Dart Code Metrics](https://github.com/dart-code-checker/dart-code-metrics) ⚠️ Archived \[863⭐] - Additional linter which reports code metrics, checks for anti-patterns and provides additional rules for the Dart analyzer by [Dart Code Checker team](https://github.com/dart-code-checker).
 * [Appainter](https://github.com/zeshuaro/appainter) ⭐ 760 | 🐛 45 | 🌐 Dart | 📅 2026-08-12 \[721⭐] - A material theme editor and generator for Flutter by [Joshua Tang](https://github.com/zeshuaro).
 * [Flutter Flavorizr](https://github.com/AngeloAvv/flutter_flavorizr) ⭐ 570 | 🐛 34 | 🌐 Dart | 📅 2026-08-12 \[533⭐] - CLI utility to easily generate flavors for Android and iOS in less than 3 minutes by [Angelo Cassano](https://github.com/AngeloAvv).
@@ -666,11 +666,11 @@ This section contains libraries that take an experimental or unorthodox approach
 ### Desktop
 
 * [Desktop Embedding](https://github.com/google/flutter-desktop-embedding) ⚠️ Archived \[7090⭐] - Desktop implementations of the Flutter embedding API by Google.
-* [Golang Desktop Embedder](https://github.com/go-flutter-desktop/go-flutter) ⭐ 5,933 | 🐛 65 | 🌐 Go | 📅 2026-08-12 \[5929⭐] - Golang embedder for desktop by [Pierre Champion](https://github.com/pchampio).
+* [Golang Desktop Embedder](https://github.com/go-flutter-desktop/go-flutter) ⭐ 5,932 | 🐛 65 | 🌐 Go | 📅 2026-08-12 \[5929⭐] - Golang embedder for desktop by [Pierre Champion](https://github.com/pchampio).
 * [Fluent UI](https://github.com/bdlukaa/fluent_ui) ⭐ 3,456 | 🐛 43 | 🌐 Dart | 📅 2026-08-03 \[3305⭐] - Microsoft's Fluent Design System in Flutter by [Bruno D'Luka](https://twitter.com/bdlukaadev).
-* [MacOS UI](https://github.com/GroovinChip/macos_ui) ⭐ 2,135 | 🐛 70 | 🌐 Dart | 📅 2025-10-19 \[2076⭐] - Widgets and themes implementing the current macOS design language by [Groovin Chip](https://twitter.com/GroovinChip).
+* [MacOS UI](https://github.com/GroovinChip/macos_ui) ⭐ 2,134 | 🐛 70 | 🌐 Dart | 📅 2025-10-19 \[2076⭐] - Widgets and themes implementing the current macOS design language by [Groovin Chip](https://twitter.com/GroovinChip).
 * [Rust Desktop Embedder](https://github.com/gliheng/flutter-rs) ⭐ 2,115 | 🐛 42 | 🌐 Rust | 📅 2023-06-14 \[2116⭐] - Rust embedder for desktop by [juju](https://github.com/gliheng).
-* [Raspberry Pi Embedder](https://github.com/ardera/flutter-pi) ⭐ 1,980 | 🐛 122 | 🌐 C | 📅 2026-01-31 \[1848⭐] - Light-weight Embedder for Raspberry Pi by [Hannes Winkler](https://github.com/ardera).
+* [Raspberry Pi Embedder](https://github.com/ardera/flutter-pi) ⭐ 1,980 | 🐛 123 | 🌐 C | 📅 2026-01-31 \[1848⭐] - Light-weight Embedder for Raspberry Pi by [Hannes Winkler](https://github.com/ardera).
 * [Awesome Flutter Desktop](https://github.com/leanflutter/awesome-flutter-desktop) ⭐ 1,709 | 🐛 0 | 📅 2025-03-30 \[1658⭐] - A curated list of awesome things related to Flutter desktop by [LeanFlutter](https://github.com/leanflutter).
 * [bitsdojo\_window](https://github.com/bitsdojo/bitsdojo_window) ⭐ 842 | 🐛 120 | 🌐 Dart | 📅 2023-12-24 <!--bitsdojo/bitsdojo_window--> - Customize windows owner-drawn chrome by [BitsDojo](https://github.com/bitsdojo).
 * [Native Shell](https://github.com/nativeshell/nativeshell) ⭐ 667 | 🐛 37 | 🌐 Rust | 📅 2025-04-21 \[658⭐] - Experimental embedder for Flutter by [Matej Knopp](https://twitter.com/matejknopp).
