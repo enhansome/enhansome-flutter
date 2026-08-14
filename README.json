@@ -24,7 +24,7 @@
             "last_commit": "2024-12-24T17:48:05Z",
             "owner": "olexale",
             "repo": "flutter_roadmap",
-            "stars": 5937
+            "stars": 5938
           }
         },
         {
@@ -77,7 +77,7 @@
             "last_commit": "2026-06-08T15:16:31Z",
             "owner": "flutter-team-archive",
             "repo": "gallery",
-            "stars": 6574
+            "stars": 6576
           }
         },
         {
@@ -125,7 +125,7 @@
             "last_commit": "2026-04-18T21:09:43Z",
             "owner": "flyerhq",
             "repo": "flutter_chat_ui",
-            "stars": 2321
+            "stars": 2323
           }
         },
         {
@@ -139,7 +139,7 @@
             "last_commit": "2024-05-18T09:35:40Z",
             "owner": "Idean",
             "repo": "Flutter-Neumorphic",
-            "stars": 2188
+            "stars": 2189
           }
         },
         {
@@ -461,7 +461,7 @@
             "last_commit": "2026-07-28T10:36:57Z",
             "owner": "superlistapp",
             "repo": "super_editor",
-            "stars": 17
+            "stars": 18
           }
         }
       ],
@@ -481,7 +481,7 @@
             "last_commit": "2026-08-04T15:57:55Z",
             "owner": "nank1ro",
             "repo": "flutter-shadcn-ui",
-            "stars": 2776
+            "stars": 2777
           }
         },
         {
@@ -506,10 +506,10 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-13T17:58:53Z",
+            "last_commit": "2026-08-14T11:18:37Z",
             "owner": "Tencent",
             "repo": "tdesign-flutter",
-            "stars": 1181
+            "stars": 1183
           }
         }
       ],
@@ -771,7 +771,7 @@
             "last_commit": "2026-07-21T12:37:51Z",
             "owner": "jamesblasco",
             "repo": "modal_bottom_sheet",
-            "stars": 1971
+            "stars": 1972
           }
         },
         {
@@ -867,7 +867,7 @@
             "last_commit": "2026-01-06T14:46:53Z",
             "owner": "jogboms",
             "repo": "flutter_offline",
-            "stars": 1332
+            "stars": 1333
           }
         },
         {
@@ -878,7 +878,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-11T20:56:37Z",
+            "last_commit": "2026-08-14T17:14:23Z",
             "owner": "conceptadev",
             "repo": "mix",
             "stars": 798
@@ -1272,10 +1272,10 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-13T00:38:23Z",
+            "last_commit": "2026-08-13T21:33:38Z",
             "owner": "flutter",
             "repo": "packages",
-            "stars": 5280
+            "stars": 5284
           }
         },
         {
@@ -1385,7 +1385,7 @@
             "last_commit": "2026-07-24T23:02:03Z",
             "owner": "imaNNeo",
             "repo": "fl_chart",
-            "stars": 7567
+            "stars": 7570
           }
         },
         {
@@ -1531,7 +1531,7 @@
             "last_commit": "2026-06-13T12:05:36Z",
             "owner": "Milad-Akarie",
             "repo": "auto_route_library",
-            "stars": 1752
+            "stars": 1751
           }
         },
         {
@@ -1604,7 +1604,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-13T15:59:57Z",
+            "last_commit": "2026-08-14T14:22:37Z",
             "owner": "firebase",
             "repo": "flutterfire",
             "stars": 9243
@@ -1618,10 +1618,10 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-13T00:38:23Z",
+            "last_commit": "2026-08-13T21:33:38Z",
             "owner": "flutter",
             "repo": "packages",
-            "stars": 5280
+            "stars": 5284
           }
         },
         {
@@ -1632,10 +1632,10 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-13T00:38:23Z",
+            "last_commit": "2026-08-13T21:33:38Z",
             "owner": "flutter",
             "repo": "packages",
-            "stars": 5280
+            "stars": 5284
           }
         },
         {
@@ -1874,7 +1874,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-13T15:59:57Z",
+            "last_commit": "2026-08-14T14:22:37Z",
             "owner": "firebase",
             "repo": "flutterfire",
             "stars": 9243
@@ -2097,7 +2097,7 @@
             "last_commit": "2026-04-08T20:22:58Z",
             "owner": "Apparence-io",
             "repo": "CamerAwesome",
-            "stars": 1205
+            "stars": 1211
           }
         },
         {
@@ -2125,7 +2125,7 @@
             "last_commit": "2025-04-27T09:05:09Z",
             "owner": "sbis04",
             "repo": "video_trimmer",
-            "stars": 490
+            "stars": 491
           }
         }
       ],
@@ -2142,7 +2142,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-13T15:59:57Z",
+            "last_commit": "2026-08-14T14:22:37Z",
             "owner": "firebase",
             "repo": "flutterfire",
             "stars": 9243
@@ -2176,7 +2176,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-13T15:59:57Z",
+            "last_commit": "2026-08-14T14:22:37Z",
             "owner": "firebase",
             "repo": "flutterfire",
             "stars": 9243
@@ -2580,10 +2580,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T12:22:41Z",
+            "last_commit": "2026-08-14T17:04:14Z",
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "stars": 120340
+            "stars": 120540
           }
         },
         {
@@ -2758,7 +2758,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-13T08:02:33Z",
+            "last_commit": "2026-08-14T14:05:49Z",
             "owner": "miguelpruivo",
             "repo": "flutter_file_picker",
             "stars": 1556
@@ -3011,7 +3011,7 @@
             "last_commit": "2026-03-18T13:42:11Z",
             "owner": "dotintent",
             "repo": "flutter-nfc-reader",
-            "stars": 443
+            "stars": 444
           }
         },
         {
@@ -3235,7 +3235,7 @@
             "last_commit": "2026-08-09T13:44:59Z",
             "owner": "rrousselGit",
             "repo": "riverpod",
-            "stars": 7366
+            "stars": 7369
           }
         },
         {
@@ -3401,7 +3401,7 @@
             "last_commit": "2026-05-27T18:30:23Z",
             "owner": "rrousselGit",
             "repo": "flutter_hooks",
-            "stars": 3332
+            "stars": 3331
           }
         },
         {
@@ -3480,10 +3480,10 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-13T16:50:31Z",
+            "last_commit": "2026-08-14T17:58:32Z",
             "owner": "serverpod",
             "repo": "serverpod",
-            "stars": 3241
+            "stars": 3242
           }
         },
         {
@@ -3660,10 +3660,10 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-13T17:29:47Z",
+            "last_commit": "2026-08-14T16:11:32Z",
             "owner": "leancodepl",
             "repo": "patrol",
-            "stars": 1404
+            "stars": 1407
           }
         },
         {
@@ -3699,10 +3699,10 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-12T13:20:28Z",
+            "last_commit": "2026-08-14T16:43:34Z",
             "owner": "flame-engine",
             "repo": "flame",
-            "stars": 10722
+            "stars": 10723
           }
         },
         {
@@ -3716,7 +3716,7 @@
             "last_commit": "2026-08-09T17:34:06Z",
             "owner": "RafaelBarbosatec",
             "repo": "bonfire",
-            "stars": 1462
+            "stars": 1463
           }
         },
         {
@@ -3884,10 +3884,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T12:22:41Z",
+            "last_commit": "2026-08-14T17:04:14Z",
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "stars": 120340
+            "stars": 120540
           }
         },
         {
@@ -3901,7 +3901,7 @@
             "last_commit": "2026-08-11T13:01:19Z",
             "owner": "AppFlowy-IO",
             "repo": "AppFlowy",
-            "stars": 75336
+            "stars": 75393
           }
         },
         {
@@ -3912,10 +3912,10 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-13T16:03:45Z",
+            "last_commit": "2026-08-14T15:41:14Z",
             "owner": "KRTirtho",
             "repo": "spotube",
-            "stars": 48332
+            "stars": 48349
           }
         },
         {
@@ -3960,10 +3960,10 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-13T16:03:45Z",
+            "last_commit": "2026-08-14T15:41:14Z",
             "owner": "KRTirtho",
             "repo": "spotube",
-            "stars": 48332
+            "stars": 48349
           }
         },
         {
@@ -3991,7 +3991,7 @@
             "last_commit": "2026-08-12T19:21:26Z",
             "owner": "flutter",
             "repo": "samples",
-            "stars": 19233
+            "stars": 19234
           }
         },
         {
@@ -4030,10 +4030,10 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-13T17:37:59Z",
+            "last_commit": "2026-08-13T19:44:28Z",
             "owner": "authpass",
             "repo": "authpass",
-            "stars": 2763
+            "stars": 2762
           }
         },
         {
@@ -4061,7 +4061,7 @@
             "last_commit": "2024-08-07T19:39:38Z",
             "owner": "mdanics",
             "repo": "fluttergram",
-            "stars": 2388
+            "stars": 2387
           }
         },
         {
@@ -4075,7 +4075,7 @@
             "last_commit": "2026-07-30T09:22:34Z",
             "owner": "HemantKArya",
             "repo": "BloomeeTunes",
-            "stars": 2188
+            "stars": 2189
           }
         },
         {
@@ -4114,10 +4114,10 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-13T07:38:29Z",
+            "last_commit": "2026-08-14T16:56:16Z",
             "owner": "LinwoodDev",
             "repo": "Butterfly",
-            "stars": 1954
+            "stars": 1966
           }
         },
         {
@@ -4145,7 +4145,7 @@
             "last_commit": "2026-07-20T21:01:26Z",
             "owner": "mateusz-bak",
             "repo": "openreads",
-            "stars": 1603
+            "stars": 1601
           }
         },
         {
@@ -4498,10 +4498,10 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-12T01:34:27Z",
+            "last_commit": "2026-08-13T23:45:56Z",
             "owner": "conceptadev",
             "repo": "fvm",
-            "stars": 5499
+            "stars": 5502
           }
         },
         {
@@ -4512,7 +4512,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-13T12:15:00Z",
+            "last_commit": "2026-08-14T14:27:20Z",
             "owner": "VeryGoodOpenSource",
             "repo": "very_good_cli",
             "stars": 2406
@@ -4554,7 +4554,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-12T10:10:06Z",
+            "last_commit": "2026-08-14T09:45:43Z",
             "owner": "FlutterGen",
             "repo": "flutter_gen",
             "stars": 1579
@@ -4571,7 +4571,7 @@
             "last_commit": "2026-08-13T09:03:11Z",
             "owner": "invertase",
             "repo": "melos",
-            "stars": 1479
+            "stars": 1480
           }
         },
         {
@@ -4675,7 +4675,7 @@
             "last_commit": "2026-08-12T00:02:29Z",
             "owner": "go-flutter-desktop",
             "repo": "go-flutter",
-            "stars": 5932
+            "stars": 5931
           }
         },
         {
@@ -4703,7 +4703,7 @@
             "last_commit": "2025-10-19T21:06:28Z",
             "owner": "macosui",
             "repo": "macos_ui",
-            "stars": 2134
+            "stars": 2135
           }
         },
         {
@@ -4731,7 +4731,7 @@
             "last_commit": "2026-01-31T15:29:37Z",
             "owner": "ardera",
             "repo": "flutter-pi",
-            "stars": 1980
+            "stars": 1981
           }
         },
         {
@@ -4773,7 +4773,7 @@
             "last_commit": "2025-04-21T15:31:31Z",
             "owner": "nativeshell",
             "repo": "nativeshell",
-            "stars": 667
+            "stars": 668
           }
         },
         {
@@ -4810,7 +4810,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T18:10:19.552Z",
+    "last_updated": "2026-08-14T18:08:40.600Z",
     "original_repository": "Solido/awesome-flutter",
     "original_repository_sha": "1111f0e9b62726b6649d1116992e1923db000198",
     "enhanced_repository": "enhansome/enhansome-flutter",
